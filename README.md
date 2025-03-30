@@ -6,7 +6,7 @@
 
 ---
 
-Thinking process
+[Thinking process](https://github.com/UniBreakfast/knowledge-of-human-civilization-by-gemini-2.5/blob/main/thoughts.md)
 
 ---
 
