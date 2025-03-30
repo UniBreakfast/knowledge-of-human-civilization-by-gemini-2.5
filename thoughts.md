@@ -1,4 +1,4 @@
-[Back](..)
+[Back](.)
 
 Here's a thinking process that could lead to the summary of human civilization's most important knowledge:
 
@@ -74,4 +74,4 @@ Here's a thinking process that could lead to the summary of human civilization's
 
 This thought process moves from deconstruction and broad brainstorming to categorization, detailed elaboration, synthesis, and finally, refinement, aiming for a structured, comprehensive, yet concise answer to a very challenging question.
 
-[Back](..)
+[Back](.)
