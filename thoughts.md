@@ -1,4 +1,4 @@
-[Back](.)
+[Back](README.md)
 
 Here's a thinking process that could lead to the summary of human civilization's most important knowledge:
 

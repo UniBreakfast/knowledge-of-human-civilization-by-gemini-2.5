@@ -6,13 +6,13 @@
 
 ---
 
-**[Thinking process](thoughts)**
+**[Thinking process](thoughts.md)**
 
 ---
 
 Okay, summarizing the *most important* knowledge of human civilization is a monumental task, as "importance" is subjective and knowledge is vast. However, we can identify foundational concepts and breakthroughs that have fundamentally shaped who we are, how we live, and how we understand the universe. Here's a summary focusing on core pillars:
 
-1.  **[Language and Symbolic Thought](1-language-and-symbolic-thought):**
+1.  **[Language and Symbolic Thought](1-language-and-symbolic-thought/README.md):**
     *   **Knowledge:** The ability to develop complex spoken and written languages, using symbols (letters, numbers, icons) to represent concepts, objects, and abstract ideas.
     *   **Importance:** Enables complex communication, cooperation, abstract thought, planning, teaching, recording history, and accumulating knowledge across generations. It's the bedrock upon which almost all other complex knowledge is built.
 
