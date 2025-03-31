@@ -1,4 +1,4 @@
-[Back](..)
+[Back](../README.md)
 
 ---
 
@@ -6,7 +6,7 @@
 
 ---
 
-[Thinking process](thoughts)
+[Thinking process](thoughts.md)
 
 ---
 
@@ -41,4 +41,4 @@ In essence, language and symbolic thought provide the communication and cognitiv
 
 ---
 
-[Back](..)
+[Back](../README.md)

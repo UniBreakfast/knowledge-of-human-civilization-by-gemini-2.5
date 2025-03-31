@@ -1,4 +1,4 @@
-[Back](..)
+[Back](../README.md)
 
 ---
 
@@ -6,7 +6,7 @@
 
 ---
 
-[Thinking process](thoughts)
+[Thinking process](thoughts.md)
 
 ---
 
@@ -39,4 +39,4 @@ Complex Communication, made possible by **language and symbolic thought**, refer
 
 ---
 
-[Back](..)
+[Back](../README.md)

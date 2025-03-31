@@ -1,4 +1,4 @@
-[Back](..)
+[Back](../README.md)
 
 ---
 
@@ -6,7 +6,7 @@
 
 ---
 
-[Thinking process](thoughts)
+[Thinking process](thoughts.md)
 
 ---
 
@@ -37,4 +37,4 @@ Structuring Consciousness refers to the way **language and symbolic thought prov
 
 ---
 
-[Back](..)
+[Back](../README.md)

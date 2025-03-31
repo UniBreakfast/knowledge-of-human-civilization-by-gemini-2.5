@@ -1,4 +1,4 @@
-[Back](.)
+[Back](README.md)
 
 ---
 
@@ -54,4 +54,4 @@ Here's a thinking process for unpacking and summarizing "Complex Communication" 
 
 ---
 
-[Back](.)
+[Back](README.md)

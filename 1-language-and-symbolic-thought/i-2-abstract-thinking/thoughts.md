@@ -1,4 +1,4 @@
-[Back](.)
+[Back](README.md)
 
 ---
 
@@ -41,4 +41,4 @@ Here's a thinking process for unpacking and summarizing "Abstract Thinking" as e
 
 ---
 
-[Back](.)
+[Back](README.md)

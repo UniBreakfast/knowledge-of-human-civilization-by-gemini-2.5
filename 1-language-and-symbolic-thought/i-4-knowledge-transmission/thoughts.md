@@ -1,4 +1,4 @@
-[Back](.)
+[Back](README.md)
 
 ---
 
@@ -46,4 +46,4 @@ Here's a thinking process for unpacking and summarizing "Knowledge Transmission"
 
 ---
 
-[Back](.)
+[Back](README.md)

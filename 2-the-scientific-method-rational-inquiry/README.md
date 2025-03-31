@@ -1,4 +1,4 @@
-[Back](..)
+[Back](../README.md)
 
 ---
 
@@ -6,7 +6,7 @@
 
 ---
 
-[Thinking process](thoughts)
+[Thinking process](thoughts.md)
 
 ---
 
@@ -52,4 +52,4 @@ In essence, this represents humanity's commitment to understanding reality based
 
 ---
 
-[Back](..)
+[Back](../README.md)

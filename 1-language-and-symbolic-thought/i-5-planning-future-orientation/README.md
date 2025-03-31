@@ -1,4 +1,4 @@
-[Back](..)
+[Back](../README.md)
 
 ---
 
@@ -6,7 +6,7 @@
 
 ---
 
-[Thinking process](thoughts)
+[Thinking process](thoughts.md)
 
 ---
 
@@ -47,4 +47,4 @@ This allows humans to engage in **long-term, goal-directed behavior**, undertake
 
 ---
 
-[Back](..)
+[Back](../README.md)

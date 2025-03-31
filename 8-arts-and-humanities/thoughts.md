@@ -1,4 +1,4 @@
-[Back](.)
+[Back](README.md)
 
 ---
 
@@ -53,4 +53,4 @@ Here's a thinking process for unpacking and summarizing "Arts and Humanities":
 
 ---
 
-[Back](.)
+[Back](README.md)

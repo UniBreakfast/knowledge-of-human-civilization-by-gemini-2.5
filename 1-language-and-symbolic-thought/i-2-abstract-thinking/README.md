@@ -1,4 +1,4 @@
-[Back](..)
+[Back](../README.md)
 
 ---
 
@@ -6,7 +6,7 @@
 
 ---
 
-[Thinking process](thoughts)
+[Thinking process](thoughts.md)
 
 ---
 
@@ -39,4 +39,4 @@ Abstract thinking is the critical human cognitive ability to **mentally engage w
 
 ---
 
-[Back](..)
+[Back](../README.md)

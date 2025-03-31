@@ -1,4 +1,4 @@
-[Back](..)
+[Back](../README.md)
 
 ---
 
@@ -6,7 +6,7 @@
 
 ---
 
-[Thinking process](thoughts)
+[Thinking process](thoughts.md)
 
 ---
 
@@ -49,4 +49,4 @@ Language is the **primary structured system** through which humans utilize their
 
 ---
 
-[Back](..)
+[Back](../README.md)

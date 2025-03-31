@@ -1,4 +1,4 @@
-[Back](.)
+[Back](README.md)
 
 ---
 
@@ -40,4 +40,4 @@ Here's a thinking process for unpacking and summarizing "Enhanced Cooperation" a
 
 ---
 
-[Back](.)
+[Back](README.md)

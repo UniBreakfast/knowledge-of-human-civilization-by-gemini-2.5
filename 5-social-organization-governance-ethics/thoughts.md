@@ -1,4 +1,4 @@
-[Back](.)
+[Back](README.md)
 
 ---
 
@@ -46,4 +46,4 @@ Here's a thinking process to unpack and summarize "Social Organization, Governan
 
 ---
 
-[Back](.)
+[Back](README.md)

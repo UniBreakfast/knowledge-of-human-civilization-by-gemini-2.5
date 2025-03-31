@@ -1,4 +1,4 @@
-[Back](..)
+[Back](../README.md)
 
 ---
 
@@ -6,7 +6,7 @@
 
 ---
 
-[Thinking process](thoughts)
+[Thinking process](thoughts.md)
 
 ---
 
@@ -56,4 +56,4 @@ In essence, technology and engineering represent humanity's cumulative ability t
 
 ---
 
-[Back](..)
+[Back](../README.md)

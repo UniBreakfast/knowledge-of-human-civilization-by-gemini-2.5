@@ -1,4 +1,4 @@
-[Back](..)
+[Back](../README.md)
 
 ---
 
@@ -6,7 +6,7 @@
 
 ---
 
-[Thinking process](thoughts)
+[Thinking process](thoughts.md)
 
 ---
 
@@ -42,4 +42,4 @@ Knowledge transmission is the **process of passing information, skills, and cult
 
 ---
 
-[Back](..)
+[Back](../README.md)

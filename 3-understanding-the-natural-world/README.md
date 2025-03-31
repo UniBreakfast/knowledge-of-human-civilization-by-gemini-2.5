@@ -1,4 +1,4 @@
-[Back](..)
+[Back](../README.md)
 
 ---
 
@@ -6,7 +6,7 @@
 
 ---
 
-[Thinking process](thoughts)
+[Thinking process](thoughts.md)
 
 ---
 
@@ -68,4 +68,4 @@ In essence, this body of knowledge represents humanity's collective, rigorously 
 
 ---
 
-[Back](..)
+[Back](../README.md)

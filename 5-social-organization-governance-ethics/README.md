@@ -1,4 +1,4 @@
-[Back](..)
+[Back](../README.md)
 
 ---
 
@@ -6,7 +6,7 @@
 
 ---
 
-[Thinking process](thoughts)
+[Thinking process](thoughts.md)
 
 ---
 
@@ -48,4 +48,4 @@ In essence, this knowledge domain represents humanity's ongoing effort to figure
 
 ---
 
-[Back](..)
+[Back](../README.md)

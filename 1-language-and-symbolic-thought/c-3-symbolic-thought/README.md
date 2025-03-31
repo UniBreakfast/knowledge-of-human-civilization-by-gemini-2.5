@@ -1,4 +1,4 @@
-[Back](..)
+[Back](../README.md)
 
 ---
 
@@ -6,7 +6,7 @@
 
 ---
 
-[Thinking process](thoughts)
+[Thinking process](thoughts.md)
 
 ---
 
@@ -50,4 +50,4 @@ Symbolic thought is the **fundamental cognitive capacity** to **internally creat
 
 ---
 
-[Back](..)
+[Back](../README.md)

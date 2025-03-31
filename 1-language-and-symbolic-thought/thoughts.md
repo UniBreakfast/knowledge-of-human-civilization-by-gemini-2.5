@@ -1,4 +1,4 @@
-[Back](.)
+[Back](README.md)
 
 ---
 
@@ -38,4 +38,4 @@ Here's a thinking process for unpacking and summarizing "Language and Symbolic T
 
 ---
 
-[Back](.)
+[Back](README.md)

@@ -1,4 +1,4 @@
-[Back](..)
+[Back](../README.md)
 
 ---
 
@@ -6,7 +6,7 @@
 
 ---
 
-[Thinking process](thoughts)
+[Thinking process](thoughts.md)
 
 ---
 
@@ -46,4 +46,4 @@ Symbolism is the foundational human cognitive ability to use **arbitrary represe
 
 ---
 
-[Back](..)
+[Back](../README.md)

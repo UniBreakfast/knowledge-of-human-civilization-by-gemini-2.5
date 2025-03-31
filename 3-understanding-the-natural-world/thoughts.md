@@ -1,4 +1,4 @@
-[Back](.)
+[Back](README.md)
 
 ---
 
@@ -55,4 +55,4 @@ Here's a thinking process for unpacking and summarizing "Understanding the Natur
 
 ---
 
-[Back](.)
+[Back](README.md)

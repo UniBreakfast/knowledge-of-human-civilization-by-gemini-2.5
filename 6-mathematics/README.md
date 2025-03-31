@@ -1,4 +1,4 @@
-[Back](..)
+[Back](../README.md)
 
 ---
 
@@ -6,7 +6,7 @@
 
 ---
 
-[Thinking process](thoughts)
+[Thinking process](thoughts.md)
 
 ---
 
@@ -51,4 +51,4 @@ In essence, mathematics provides the abstract, precise, and universal language a
 
 ---
 
-[Back](..)
+[Back](../README.md)

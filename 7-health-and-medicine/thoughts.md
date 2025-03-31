@@ -1,4 +1,4 @@
-[Back](.)
+[Back](README.md)
 
 ---
 
@@ -41,4 +41,4 @@ Here's a thinking process for unpacking and summarizing "Item 7: Health and Medi
 
 ---
 
-[Back](.)
+[Back](README.md)

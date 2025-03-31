@@ -1,4 +1,4 @@
-[Back](.)
+[Back](README.md)
 
 ---
 
@@ -51,4 +51,4 @@ Here's a thinking process for unpacking and summarizing "Language (The Primary S
 
 ---
 
-[Back](.)
+[Back](README.md)

@@ -1,4 +1,4 @@
-[Back](..)
+[Back](../README.md)
 
 ---
 
@@ -6,7 +6,7 @@
 
 ---
 
-[Thinking process](thoughts)
+[Thinking process](thoughts.md)
 
 ---
 
@@ -58,4 +58,4 @@ In essence, Health and Medicine represent a continuous, science-driven effort to
 
 ---
 
-[Back](..)
+[Back](../README.md)

@@ -1,4 +1,4 @@
-[Back](..)
+[Back](../README.md)
 
 ---
 
@@ -6,7 +6,7 @@
 
 ---
 
-[Thinking process](thoughts)
+[Thinking process](thoughts.md)
 
 ---
 
@@ -62,4 +62,4 @@ In essence, the Arts and Humanities are the disciplines through which humanity r
 
 ---
 
-[Back](..)
+[Back](../README.md)

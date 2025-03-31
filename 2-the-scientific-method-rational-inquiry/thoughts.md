@@ -1,4 +1,4 @@
-[Back](.)
+[Back](README.md)
 
 ---
 
@@ -49,4 +49,4 @@ Here's a thinking process for unpacking and summarizing "The Scientific Method &
 
 ---
 
-[Back](.)
+[Back](README.md)

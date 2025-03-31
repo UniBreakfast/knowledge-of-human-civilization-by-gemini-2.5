@@ -1,4 +1,4 @@
-[Back](.)
+[Back](README.md)
 
 ---
 
@@ -45,4 +45,4 @@ Here's a breakdown of the thinking process to unpack and summarize "Symbolic Tho
 
 ---
 
-[Back](.)
+[Back](README.md)
