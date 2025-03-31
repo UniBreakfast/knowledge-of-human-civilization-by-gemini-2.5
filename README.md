@@ -1,4 +1,4 @@
-# **[knowledge-of-human-civilization-by-gemini-2.5](https://github.com/UniBreakfast/knowledge-of-human-civilization-by-gemini-2.5)**:
+# [**knowledge-of-human-civilization-by-gemini-2.5**](https://github.com/UniBreakfast/knowledge-of-human-civilization-by-gemini-2.5)
 
 ---
 
