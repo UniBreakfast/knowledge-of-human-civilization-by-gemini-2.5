@@ -6,7 +6,7 @@
 
 ---
 
-[Thinking process](thoughts)
+[Thinking process](thoughts.md)
 
 ---
 
