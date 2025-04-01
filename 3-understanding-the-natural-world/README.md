@@ -19,8 +19,7 @@ This refers to the body of foundational knowledge acquired through scientific in
 **Unpacking the Components:**
 
 This knowledge base spans several major domains, with key concepts that revolutionized our understanding:
-
-1.  **Physics (Understanding Matter, Energy, Space, and Time):**
+1.  **[Physics (Understanding Matter, Energy, Space, and Time)](c-1-physics/README.md):**
     *   **Key Concepts:**
         *   **Classical Mechanics (Newton's Laws, Gravity):** Explain motion, forces, and gravitational attraction for everyday objects and celestial bodies.
         *   **Thermodynamics:** Laws governing energy, its conversion, heat, work, and the concept of entropy (disorder).
@@ -29,7 +28,7 @@ This knowledge base spans several major domains, with key concepts that revoluti
         *   **Quantum Mechanics:** Describes the behavior of matter and energy at the atomic and subatomic level, revealing a probabilistic and quantized reality fundamentally different from the classical world.
     *   **Scope:** From the smallest particles to the largest structures in the universe.
 
-2.  **Chemistry (Understanding Atoms, Molecules, and Transformations):**
+2.  **[Chemistry (Understanding Atoms, Molecules, and Transformations)](c-2-chemistry/README.md):**
     *   **Key Concepts:**
         *   **Atomic Theory:** Matter is composed of discrete units called atoms.
         *   **Periodic Table:** Organizes elements based on atomic structure and recurring properties.
@@ -37,7 +36,7 @@ This knowledge base spans several major domains, with key concepts that revoluti
         *   **Chemical Reactions:** Processes involving the rearrangement of atoms and molecules, governed by energy and kinetics.
     *   **Scope:** The composition, structure, properties, and reactions of matter. The bridge between physics and biology.
 
-3.  **Biology (Understanding Life):**
+3.  **[Biology (Understanding Life)](c-3-biology/README.md):**
     *   **Key Concepts:**
         *   **Evolution by Natural Selection:** The central organizing principle explaining the diversity of life and how species adapt and change over time.
         *   **Cell Theory:** All living organisms are composed of one or more cells, the basic unit of life.
@@ -46,7 +45,7 @@ This knowledge base spans several major domains, with key concepts that revoluti
         *   **Ecology:** The study of interactions between organisms and their environment.
     *   **Scope:** The origin, evolution, structure, function, growth, distribution, and classification of living organisms.
 
-4.  **Astronomy & Cosmology (Understanding the Cosmos):**
+4.  **[Astronomy & Cosmology (Understanding the Cosmos)](c-4-astronomy/README.md):**
     *   **Key Concepts:**
         *   **Heliocentric Model:** Earth and other planets revolve around the Sun.
         *   **Scale of the Universe:** Understanding the vast distances, structures like galaxies and clusters, and cosmic timescales.
@@ -57,12 +56,11 @@ This knowledge base spans several major domains, with key concepts that revoluti
 **Summary of Importance:**
 
 Understanding these key scientific concepts is crucial for several reasons:
-
-1.  **Explanatory Power:** Provides rational, evidence-based explanations for natural phenomena, replacing superstition and myth. It answers fundamental "how" and "why" questions about the world around us and within us.
-2.  **Predictive Capability:** Allows us to make reliable predictions about future events (e.g., weather patterns, chemical reaction outcomes, planetary movements, disease progression).
-3.  **Foundation for Technology & Innovation:** This fundamental knowledge is the bedrock upon which nearly all modern technology is built – from electronics (quantum mechanics, electromagnetism) and materials (chemistry) to medicine (biology, chemistry) and energy production (physics, chemistry).
-4.  **Contextualizes Human Existence:** Reveals our place in the vastness of cosmic space and the deep time of biological evolution, providing profound perspective.
-5.  **Informs Solutions to Global Challenges:** Understanding climate science (physics, chemistry, ecology), disease (biology), and resource management (multiple fields) is essential for addressing major global issues.
+1.  **[Explanatory Power](i-1-explanatory-power/README.md):** Provides rational, evidence-based explanations for natural phenomena, replacing superstition and myth. It answers fundamental "how" and "why" questions about the world around us and within us.
+2.  **[Predictive Capability](i-2-predictive-capability/README.md):** Allows us to make reliable predictions about future events (e.g., weather patterns, chemical reaction outcomes, planetary movements, disease progression).
+3.  **[Foundation for Technology & Innovation](i-3-foundation-for-innovation/README.md):** This fundamental knowledge is the bedrock upon which nearly all modern technology is built – from electronics (quantum mechanics, electromagnetism) and materials (chemistry) to medicine (biology, chemistry) and energy production (physics, chemistry).
+4.  **[Contextualizes Human Existence](i-4-contextualizes-existence/README.md):** Reveals our place in the vastness of cosmic space and the deep time of biological evolution, providing profound perspective.
+5.  **[Informs Solutions to Global Challenges](i-5-solutions-to-challenges/README.md):** Understanding climate science (physics, chemistry, ecology), disease (biology), and resource management (multiple fields) is essential for addressing major global issues.
 
 In essence, this body of knowledge represents humanity's collective, rigorously tested understanding of the universe's operating system. It empowers us to interact with the world more effectively, solve problems, and appreciate the intricate workings of reality.
 
