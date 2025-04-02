@@ -89,11 +89,10 @@
           "Diffraction": null,
           "Polarization": null
         },
-        "Quantum Optics": null,
         "Nonlinear Optics": null,
         "Fourier Optics": null,
         "Holography": null,
-        "Laser Physics (overlaps AMO)": null
+        "Laser Physics": null
       },
       "Acoustics": {
         "Physical Acoustics": null,
@@ -130,7 +129,7 @@
       "Atomic, Molecular, and Optical Physics (AMO)": {
         "Atomic Structure & Spectroscopy": null,
         "Molecular Structure & Spectroscopy": null,
-        "Quantum Optics (overlaps Optics)": null,
+        "Quantum Optics": null,
         "Laser Physics & Cooling": null,
         "Cold Atoms & Bose-Einstein Condensates (BECs)": null,
         "Atom-Light Interactions": null,
@@ -165,8 +164,7 @@
           "String Theory & M-Theory": null,
           "Extra Dimensions": null,
           "Grand Unified Theories (GUTs)": null
-        },
-        "Astroparticle Physics (overlaps Astrophysics)": null
+        }
       },
       "Astrophysics & Cosmology": {
         "Observational Techniques": {
@@ -261,7 +259,6 @@
           "UV-Vis Spectroscopy": null
         },
         "Natural Products Chemistry": null,
-        "Organometallic Chemistry": null,
         "Physical Organic Chemistry (Kinetics, Thermodynamics)": null,
         "Supramolecular Chemistry": null,
         "Bioorganic Chemistry": null,
@@ -274,7 +271,7 @@
           "Coordination Complexes & Geometry": null,
           "Reaction Mechanisms of Coordination Compounds": null
         },
-        "Organometallic Chemistry (overlaps Organic)": {
+        "Organometallic Chemistry": {
           "Metal Carbonyls": null,
           "Metallocenes": null,
           "Catalysis (Homogeneous, Heterogeneous)": null
@@ -415,11 +412,6 @@
         "Simulation of Complex Systems": null
       },
       "Materials Chemistry": {
-        "Polymer Chemistry (overlaps)": {
-          "Synthesis (Step, Chain, Controlled)": null,
-          "Characterization (MW, Tg, Tm)": null,
-          "Structure-Property Relationships": null
-        },
         "Nanomaterials": {
           "Nanoparticles (Metals, Oxides, Semiconductors)": null,
           "Nanotubes & Nanowires": null,
@@ -456,6 +448,7 @@
           "Spectroscopic Analysis (NMR, IR)": null,
           "Thermal Analysis (DSC, TGA)": null
         },
+        "Structure-Property Relationships": null,
         "Physical Properties of Polymers (Solution & Solid State)": null,
         "Polymer Processing & Rheology": null,
         "Biopolymers & Biodegradable Polymers": null,
@@ -605,7 +598,7 @@
         },
         "Behavioral Ecology": null,
         "Landscape Ecology": null,
-        "Conservation Ecology (overlaps Conservation Biology)": null,
+        "Conservation Ecology": null,
         "Restoration Ecology": null,
         "Chemical Ecology": null,
         "Microbial Ecology": null,
@@ -708,14 +701,11 @@
           "Plant Identification & Nomenclature": null,
           "Phylogenetic Classification": null
         },
-        "Plant Anatomy & Morphology (overlaps Anatomy)": null,
-        "Plant Physiology (overlaps Physiology)": null,
-        "Plant Ecology (overlaps Ecology)": null,
+        "Plant Ecology": null,
         "Ethnobotany & Economic Botany": null,
         "Phycology (Study of Algae)": null,
         "Bryology (Study of Mosses, Liverworts, Hornworts)": null,
         "Pteridology (Study of Ferns & Allies)": null,
-        "Paleobotany (overlaps Paleontology)": null,
         "Plant Genetics & Breeding": null
       },
       "Zoology": {
@@ -735,7 +725,7 @@
         "Comparative Anatomy & Physiology (Zoological focus)": null,
         "Animal Behavior (Ethology)": null,
         "Entomology (Detailed study of Insects)": null,
-        "Paleozoology (overlaps Paleontology)": null
+        "Paleozoology": null
       },
       "Neuroscience": {
         "Molecular & Cellular Neuroscience": {
@@ -898,7 +888,6 @@
           "Sequence Stratigraphy": null,
           "Basin Analysis": null
         },
-        "Paleontology (overlaps Biology)": null,
         "Economic Geology": {
           "Ore Deposit Geology": null,
           "Petroleum Geology": null,
@@ -907,14 +896,11 @@
         },
         "Environmental & Engineering Geology": {
           "Geohazards (Landslides, Earthquakes)": null,
-          "Hydrogeology (Geological Aspects)": null,
           "Site Investigation": null
         },
         "Planetary Geology": null,
-        "Geochemistry (overlaps Chemistry)": {
-          "Isotope Geochemistry": null,
-          "Aqueous Geochemistry": null
-        },
+        "Isotope Geochemistry": null,
+        "Aqueous Geochemistry": null,
         "Geochronology": null
       },
       "Oceanography": {
@@ -1409,7 +1395,7 @@
           "Volcanic Hazard Assessment": null,
           "Flood Hazard Mapping": null
         },
-        "Hydrogeology": {
+        "Environmental Hydrogeology": {
           "Groundwater Resources Management": null,
           "Groundwater Contamination & Remediation": null,
           "Aquifer Vulnerability Assessment": null
@@ -1770,11 +1756,6 @@
           "Evidence-Based Practice": null,
           "Treatment Outcome Research": null
         },
-        "Clinical Neuropsychology": {
-          "Neuropsychological Assessment": null,
-          "Brain Injury Rehabilitation": null,
-          "Dementia Assessment": null
-        },
         "Child & Adolescent Clinical Psychology": null,
         "Health Psychology (Clinical Applications)": null,
         "Forensic Psychology (Clinical Applications)": null,
@@ -1940,10 +1921,13 @@
         },
         "Behavioral Genetics": null,
         "Psychopharmacology": null,
-        "Clinical Neuropsychology (overlaps Clinical)": {
+        "Clinical Neuropsychology": {
+          "Neuropsychological Assessment": null,
           "Assessment of Brain Damage": null,
+          "Brain Injury Rehabilitation": null,
           "Neurodevelopmental Disorders": null,
-          "Neurodegenerative Disorders (Alzheimer's, Parkinson's)": null
+          "Neurodegenerative Disorders (Alzheimer's, Parkinson's)": null,
+          "Dementia Assessment": null
         },
         "Hormones & Behavior": null
       },
@@ -2029,8 +2013,8 @@
           "Sociocultural Models": null,
           "Integrative Models (Biopsychosocial)": null
         },
-        "Classification & Assessment (overlaps Clinical)": null,
-        "Specific Disorders (Detailed Study - overlaps Clinical)": {
+        "Classification & Assessment": null,
+        "Specific Disorders": {
           "Anxiety Disorders": null,
           "Mood Disorders": null,
           "Schizophrenia Spectrum": null,
@@ -2533,7 +2517,6 @@
           "Skeletal Identification": null,
           "Trauma Analysis": null
         },
-        "Bioarchaeology (overlaps Archaeology)": null,
         "Human Osteology": null,
         "Molecular Anthropology": {
           "Ancient DNA (aDNA)": null,
@@ -2773,7 +2756,6 @@
           "Politics of Welfare States": null,
           "Institutional Political Economy": null
         },
-        "International Political Economy (overlaps IR)": null,
         "Politics of Economic Development": null,
         "Political Economy of Institutions": null,
         "Regulation & Deregulation": null,
@@ -2959,7 +2941,7 @@
         "History of Industry & Technology": null,
         "Business History": null,
         "Financial & Monetary History": null,
-        "History of Labor & Work (overlaps Social)": null,
+        "History of Labor & Work": null,
         "History of Trade & Globalization": null,
         "History of Economic Thought": null
       },
@@ -3104,7 +3086,7 @@
           "Population Policy": null
         }
       },
-      "Physical Geography (overlaps with Earth Sciences)": {
+      "Physical Geography": {
         "Geomorphology": {
           "Tectonic Geomorphology": null,
           "Fluvial Processes & Landforms": null,
@@ -3173,7 +3155,6 @@
           "Image Processing & Interpretation": null,
           "Applications (Land Cover Change, Vegetation Monitoring)": null
         },
-        "Cartography & Geovisualization (overlaps Cartography)": null,
         "Web GIS & Geospatial Cloud Computing": null,
         "Applications of GIS (Urban Planning, Environmental Management, Health)": null,
         "GIS Programming & Customization": null
@@ -3308,7 +3289,25 @@
         "New Media & Digital Culture": {
           "Social Media Studies": null,
           "Internet Studies": null,
-          "Video Game Studies": null
+          "Video Game Studies": null,
+          "Video Game Genres": {
+            "Action": null,
+            "Adventure": null,
+            "Role-Playing": null,
+            "Simulation": null,
+            "Strategy": null,
+            "Sports": null,
+            "Puzzle": null,
+            "Racing": null,
+            "Platformer": null,
+            "Fighting": null,
+            "Shooter": null,
+            "Arcade": null,
+            "Educational": null,
+            "Casual": null,
+            "Experimental": null
+          },
+          "Cyberculture": null
         },
         "Audience Studies": null,
         "Media Representation (Race, Gender, Class)": null,
@@ -3479,25 +3478,6 @@
           "Political Ethics": null
         }
       },
-      "Logic (overlaps with Formal Sciences)": {
-        "Propositional Logic": null,
-        "Predicate Logic (First-Order Logic)": null,
-        "Modal Logic": {
-          "Alethic Modal Logic (Necessity/Possibility)": null,
-          "Deontic Logic (Obligation/Permission)": null,
-          "Epistemic Logic (Knowledge/Belief)": null,
-          "Temporal Logic": null
-        },
-        "Higher-Order Logic": null,
-        "Set Theory (Logical Foundations)": null,
-        "Philosophy of Logic": {
-          "Nature of Logical Consequence": null,
-          "Logical Pluralism": null,
-          "Paradoxes (Liar, Russell's)": null
-        },
-        "Informal Logic & Critical Thinking": null,
-        "Non-Classical Logics (Intuitionistic, Paraconsistent, Fuzzy)": null
-      },
       "Aesthetics": {
         "Theories of Beauty": null,
         "Definition of Art": null,
@@ -3663,7 +3643,11 @@
           "Socrates & Sophists": null,
           "Plato": null,
           "Aristotle": null,
-          "Hellenistic Philosophy (Stoicism, Epicureanism, Skepticism)": null,
+          "Hellenistic Philosophy": {
+            "Stoicism": null,
+            "Epicureanism": null,
+            "Skepticism": null
+          },
           "Neoplatonism": null
         },
         "Medieval Philosophy": {
@@ -3734,8 +3718,14 @@
       "Prose (Fiction & Non-Fiction)": {
         "Fiction": {
           "The Novel": {
+            "Realist Novel": null,
+            "Historical Novel": null,
+            "Gothic Novel": null,
+            "Science Fiction Novel": null,
+            "Fantasy Novel": null,
+            "Mystery Novel": null,
+            "Romance Novel": null,
             "History of the Novel": null,
-            "Subgenres (Realist, Historical, Gothic, Sci-Fi, Fantasy, Mystery, Romance)": null,
             "Narrative Techniques (Point of View, Stream of Consciousness)": null,
             "Characterization": null,
             "Plot Structure": null
@@ -4019,7 +4009,7 @@
         "Magic, Witchcraft & Sorcery": null,
         "Shamanism & Spirit Possession": null,
         "Religion & Kinship / Social Structure": null,
-        "Religion & Healing (overlaps Medical Anthro)": null,
+        "Religion & Healing": null,
         "Religion, Globalization & Transnationalism": null,
         "Ethnographic Methods": null
       },
@@ -4206,7 +4196,7 @@
           },
           "Camera Types & Formats": null
         },
-        "Architecture (overlaps with Applied Sciences)": {
+        "Architecture": {
           "Historical Periods & Styles": {
             "Ancient (Egyptian, Greek, Roman)": null,
             "Medieval (Romanesque, Gothic)": null,
@@ -4242,7 +4232,6 @@
             "Construction Documents": null,
             "Sustainable Design": null
           },
-          "Urban Design & Planning (overlaps Geography)": null,
           "Landscape Architecture": null
         },
         "Conceptual Art": {
@@ -4266,7 +4255,8 @@
           },
           "Genres": {
             "Net Art": null,
-            "Virtual Reality (VR) & Augmented Reality (AR) Art": null,
+            "Virtual Reality (VR)": null,
+            "Augmented Reality (AR) Art": null,
             "Glitch Art": null,
             "Digital Painting": null
           },
@@ -4344,9 +4334,30 @@
             "Computer Music": null
           },
           "Popular Music Studies": {
-            "Genres (Rock, Pop, Jazz, Blues, Hip Hop, Electronic Dance Music, etc.)": null,
             "History of Popular Music": null,
             "Cultural Significance": null
+          },
+          "Music Genres": {
+            "Blues": null,
+            "Country": null,
+            "Dance": null,
+            "Electronic": null,
+            "Folk": null,
+            "Hip Hop": null,
+            "Jazz": null,
+            "Latin": null,
+            "Metal": null,
+            "Pop": null,
+            "Punk": null,
+            "R&B": null,
+            "Reggae": null,
+            "Rock": null,
+            "Soul": null,
+            "World": null,
+            "Symphonic": null,
+            "Chamber Music": null,
+            "Choral": null,
+            "Opera": null
           },
           "Music Cognition & Psychology": null,
           "Music Education": null
@@ -4450,9 +4461,24 @@
             "Comedy": null,
             "Documentary": null,
             "Animation": null,
-            "Experimental Film": null
+            "Experimental Film": null,
+            "Drama": null,
+            "Thriller": null,
+            "Romance": null,
+            "Action": null,
+            "Mystery": null,
+            "Fantasy": null,
+            "War": null,
+            "Family": null,
+            "Crime": null,
+            "Adventure": null,
+            "Historical Film": null,
+            "Biographical Film": null,
+            "Political Film": null,
+            "Spy Film": null,
+            "Erotic Film": null,
+            "Pornographic Film": null
           },
-          "Film Theory & Criticism (overlaps separate category)": null,
           "Film Production & Technology": {
             "Cinematography": null,
             "Editing": null,
@@ -4517,8 +4543,8 @@
           "Indigenous Art Histories": null
         },
         "Thematic Studies (e.g., History of Portraiture, Landscape)": null,
-        "History of Architecture (overlaps Visual Arts)": null,
-        "History of Photography (overlaps Visual Arts)": null
+        "History of Architecture": null,
+        "History of Photography": null
       },
       "Art Criticism & Theory": {
         "History of Art Criticism": null,
@@ -4551,7 +4577,7 @@
           "Music & Globalization": null,
           "Applied Ethnomusicology": null
         },
-        "Music Theory & Analysis (overlaps Music)": {
+        "Music Theory & Analysis": {
           "History of Music Theory": null,
           "Analytical Techniques": null,
           "Computational Musicology": null
@@ -4559,8 +4585,7 @@
         "Systematic Musicology": {
           "Music Psychology & Cognition": null,
           "Music Acoustics": null,
-          "Sociology of Music": null,
-          "Philosophy of Music (overlaps Philosophy)": null
+          "Sociology of Music": null
         }
       },
       "Film Theory & Criticism": {
@@ -5213,34 +5238,6 @@
         "Descriptive Set Theory": null,
         "Forcing": null
       },
-      "Logic": {
-        "Propositional Calculus": null,
-        "First-Order Logic (Predicate Calculus)": null,
-        "Model Theory": {
-          "Completeness & Compactness Theorems": null,
-          "Types & Saturation": null,
-          "Quantifier Elimination": null,
-          "Stability Theory": null
-        },
-        "Proof Theory": {
-          "Sequent Calculus & Natural Deduction": null,
-          "Cut-Elimination": null,
-          "Consistency Proofs": null,
-          "Ordinal Analysis": null
-        },
-        "Computability Theory (Recursion Theory)": {
-          "Turing Machines & Computable Functions": null,
-          "Undecidability (Halting Problem)": null,
-          "Recursion Theorems": null,
-          "Turing Degrees": null
-        },
-        "Modal Logic": null,
-        "Non-Classical Logics": {
-          "Intuitionistic Logic": null,
-          "Many-Valued Logic": null,
-          "Paraconsistent Logic": null
-        }
-      },
       "Number Theory": {
         "Elementary Number Theory": {
           "Divisibility & Congruences": null,
@@ -5632,6 +5629,7 @@
     },
     "Logic": {
       "Propositional Logic": {
+        "Propositional Calculus": null,
         "Syntax (Connectives)": null,
         "Semantics (Truth Tables)": null,
         "Proof Systems (Natural Deduction, Axiomatic)": null,
@@ -5642,16 +5640,16 @@
         "Semantics (Models, Interpretations, Satisfaction)": null,
         "Proof Systems (Extension of Propositional Systems)": null,
         "Soundness & Completeness": null,
-        "First-Order Theories": null
+        "First-Order Logic (Predicate Calculus)": null
       },
       "Modal Logic": {
         "Syntax (Modal Operators)": null,
         "Semantics (Possible Worlds, Kripke Models)": null,
         "Axiomatic Systems (K, T, B, S4, S5)": null,
         "Specific Modal Logics": {
-          "Alethic Logic": null,
-          "Epistemic Logic": null,
-          "Deontic Logic": null,
+          "Alethic Logic (Necessity/Possibility)": null,
+          "Epistemic Logic (Knowledge/Belief)": null,
+          "Deontic Logic (Obligation/Permission)": null,
           "Temporal Logic": null,
           "Doxastic Logic": null
         },
@@ -5700,9 +5698,13 @@
         },
         "Conditional Logic": null,
         "Logic of Vagueness": null,
-        "Paradoxes (Semantic, Set-theoretic)": null,
+        "Paradoxes ()": null,
         "Belief Revision": null,
-        "Philosophy of Logic": null
+        "Philosophy of Logic": {
+          "Nature of Logical Consequence": null,
+          "Logical Pluralism": null,
+          "Paradoxes (Liar, Russell's, Semantic)": null
+        }
       },
       "Computational Logic": {
         "Automated Reasoning": {
@@ -5743,9 +5745,10 @@
         "Elementary Equivalence": null,
         "Definability": null,
         "Quantifier Elimination": null,
-        "Types": null,
+        "Types & Saturation": null,
         "Saturated & Homogeneous Models": null,
         "Categoricity in Power": null,
+        "Completeness & Compactness Theorems": null,
         "Stability & Classification Theory": null
       },
       "Proof Theory": {
@@ -5760,6 +5763,7 @@
         },
         "Ordinal Analysis": null,
         "Reverse Mathematics": null,
+        "Consistency Proofs": null,
         "Proof Complexity": null
       },
       "Computability Theory": {
@@ -5777,7 +5781,9 @@
         "Recursion Theorems (Kleene)": null,
         "Computable Analysis": null,
         "Algorithmic Randomness": null
-      }
+      },
+      "Higher-Order Logic": null,
+      "Informal Logic & Critical Thinking": null
     },
     "Computer Science (Theoretical)": {
       "Theory of Computation": {
@@ -5983,7 +5989,6 @@
           "Extensions (System F)": null
         },
         "Compiler Theory": {
-          "Parsing Theory (overlaps Theory of Computation)": null,
           "Intermediate Representations": null,
           "Optimization (Theoretical Aspects)": null,
           "Code Generation (Theoretical Aspects)": null
@@ -6460,8 +6465,7 @@
             "Seismic Site Response Analysis": null,
             "Seismic Design of Foundations & Retaining Structures": null
           },
-          "Geoenvironmental Engineering": null,
-          "Rock Mechanics": null
+          "Geoenvironmental Engineering": null
         },
         "Transportation Engineering": {
           "Highway Engineering": {
@@ -6506,7 +6510,6 @@
           },
           "Hydraulics": {
             "Fluid Properties & Statics": null,
-            "Open Channel Flow": null,
             "Pipe Flow": null,
             "Hydraulic Structures (Dams, Spillways, Culverts)": null,
             "Computational Fluid Dynamics (CFD) for Water": null
@@ -6528,7 +6531,6 @@
             "Detention & Retention Systems": null,
             "Low Impact Development (LID)": null
           },
-          "Groundwater Engineering (Hydrogeology - overlaps Geology)": null,
           "Coastal & River Engineering": null,
           "Water Resources Planning & Management": null
         },
@@ -6640,7 +6642,7 @@
             "Dimensional Analysis & Similitude": null,
             "Viscous Flow in Pipes": null,
             "Flow Over Immersed Bodies (Lift, Drag)": null,
-            "Open Channel Flow (overlaps Civil)": null
+            "Open Channel Flow": null
           },
           "Compressible Flow": {
             "Mach Number & Speed of Sound": null,
@@ -6916,7 +6918,7 @@
           "Adaptive & Robust Control": null,
           "Optimal Control Theory": null,
           "Process Control & Instrumentation": null,
-          "Robotics Control (overlaps Robotics)": null
+          "Robotics Control": null
         },
         "Signal Processing": {
           "Signals & Systems": {
@@ -6984,8 +6986,7 @@
           "Satellite Communications": null,
           "Computer Networks (EE Focus)": {
             "Network Protocols (TCP/IP Suite - Physical, Data Link, Network Layers)": null,
-            "Network Performance Analysis": null,
-            "Network Security (Cryptography Basics)": null
+            "Network Performance Analysis": null
           },
           "Antennas & Propagation": {
             "Antenna Parameters": null,
@@ -7167,7 +7168,7 @@
           },
           "Non-Ideal Flow & Residence Time Distribution (RTD)": null,
           "Multiphase Reactors (Gas-Liquid, Gas-Solid, Liquid-Liquid)": null,
-          "Biochemical Reaction Engineering (overlaps Biochemical)": null
+          "Biochemical Reaction Engineering": null
         },
         "Materials Science": {
           "Structure & Bonding in Materials": null,
@@ -7537,7 +7538,6 @@
               "Mobile IP": null
             },
             "Network Management (SNMP)": null,
-            "Network Security (overlaps Cybersecurity)": null,
             "Software-Defined Networking (SDN) & Network Function Virtualization (NFV)": null,
             "Quality of Service (QoS)": null
           },
@@ -7685,7 +7685,7 @@
             "Machine Translation": null,
             "Question Answering & Dialog Systems": null
           },
-          "Computer Vision (overlaps Graphics/Vision)": {
+          "Artificial Computer Vision": {
             "Image Recognition & Classification": null,
             "Object Detection & Localization": null,
             "Image Segmentation": null,
@@ -8047,7 +8047,7 @@
             "Crystal Growth (Czochralski, Bridgman)": null,
             "Epitaxy (MBE, MOCVD)": null,
             "Doping Techniques (Diffusion, Ion Implantation)": null,
-            "Lithography, Etching, Deposition (overlaps Microelectronics)": null,
+            "Lithography, Etching, Deposition": null,
             "Device Isolation & Interconnects": null
           },
           "Semiconductor Devices": {
@@ -8448,7 +8448,7 @@
         },
         "Marine Hydrodynamics": null,
         "Shipbuilding & Production": null,
-        "Ocean Engineering (overlaps Civil/Oceanography)": null
+        "Ocean Engineering": null
       },
       "Petroleum Engineering": {
         "Reservoir Engineering": {
@@ -8471,7 +8471,6 @@
           "Production Optimization": null,
           "Formation Damage": null
         },
-        "Petroleum Geology (overlaps Geology)": null,
         "Surface Production Operations & Facilities": null,
         "Petroleum Economics & Project Evaluation": null,
         "Health, Safety, & Environment (HSE) in Petroleum Operations": null
@@ -8505,12 +8504,12 @@
           "Geologic Hazard Assessment (Landslides, Earthquakes, Volcanoes)": null,
           "Engineering Properties of Geologic Materials": null
         },
-        "Rock Mechanics (Applied)": {
+        "Applied Rock Mechanics": {
           "Rock Mass Classification": null,
           "Excavation & Tunneling in Rock": null,
           "Foundation Design in Rock": null
         },
-        "Soil Mechanics (Applied - overlaps Geotechnical)": {
+        "Applied Soil Mechanics": {
           "Slope Stability in Soil": null,
           "Foundation Design in Soil": null,
           "Earth Structures (Dams, Embankments)": null
@@ -8621,7 +8620,7 @@
           },
           "Thermoregulation": null,
           "Exercise Physiology": null,
-          "Pathophysiology (overlaps Pathology)": null
+          "Pathophysiology": null
         },
         "Biochemistry": {
           "Biomolecules - Structure & Function": {
@@ -8966,7 +8965,6 @@
             "Surgical Critical Care": null,
             "Endocrine Surgery (Thyroid, Parathyroid, Adrenal)": null,
             "Breast Surgery": null,
-            "Surgical Oncology (overlaps Oncology)": null,
             "Laparoscopic & Minimally Invasive Surgery": null
           },
           "Surgical Subspecialties": {
@@ -10045,8 +10043,6 @@
             "Dosage Form Design": null,
             "Biopharmaceutics": null
           },
-          "Pharmacokinetics (overlaps Basic Medical Sciences)": null,
-          "Pharmacodynamics (overlaps Basic Medical Sciences)": null,
           "Medicinal Chemistry": {
             "Drug Design & Discovery": null,
             "Structure-Activity Relationships (SAR)": null
@@ -10415,7 +10411,6 @@
         "Design Process & Methodology": null,
         "Architectural Representation (Drawing, Modeling, Digital)": null,
         "Building Typologies (Residential, Commercial, Institutional, etc.)": null,
-        "Architectural Theory & Criticism (overlaps History)": null,
         "Sustainable & Ecological Design": null,
         "Digital Fabrication & Parametric Design": null,
         "Professional Practice & Ethics": null
@@ -10559,7 +10554,6 @@
           "Gifted & Talented Education": null
         },
         "Inclusive Education Practices": null,
-        "Assistive Technology": null,
         "Collaboration with Families & Professionals": null,
         "Special Education Law & Policy (IDEA)": null
       },
@@ -10598,7 +10592,6 @@
         "Educational Gaming & Simulation": null,
         "Mobile Learning": null,
         "Technology Integration in K-12/Higher Ed": null,
-        "Assistive Technology (overlaps Special Ed)": null,
         "Learning Analytics": null
       },
       "Comparative Education": {
@@ -10678,8 +10671,7 @@
             "Appeals": null,
             "Habeas Corpus": null
           }
-        },
-        "Criminology (overlaps Sociology)": null
+        }
       },
       "Civil Law / Private Law": {
         "Contract Law": {
@@ -10835,10 +10827,7 @@
           "Sarbanes-Oxley Act": null
         },
         "Corporate Finance": null,
-        "Bankruptcy Law (overlaps with general bankruptcy)": {
-          "Chapter 7 (Liquidation)": null,
-          "Chapter 11 (Reorganization)": null
-        },
+        "Bankruptcy Law (Liquidation, Reorganization)": null,
         "Antitrust Law": null
       },
       "Environmental Law": {
@@ -11075,7 +11064,6 @@
           "Performance Management & Appraisal": null,
           "Compensation & Benefits": null,
           "Employee Relations": null,
-          "Labor Relations (overlaps Labor Law)": null,
           "HR Strategy & Planning": null,
           "International HRM": null
         }
@@ -11103,7 +11091,6 @@
           "Product Life Cycle Management": null
         },
         "Pricing Strategies": null,
-        "Distribution Channels & Logistics (overlaps SCM)": null,
         "Integrated Marketing Communications (IMC)": {
           "Advertising": null,
           "Public Relations (PR)": null,
@@ -11156,7 +11143,6 @@
           "Political Risk": null
         },
         "Personal Finance": null,
-        "Real Estate Finance (overlaps Real Estate)": null,
         "Financial Technology (FinTech)": null
       },
       "Accounting": {
@@ -11185,7 +11171,7 @@
           "Substantive Testing": null,
           "Audit Reporting": null
         },
-        "Tax Accounting (overlaps Tax Law)": {
+        "Tax Accounting": {
           "Individual Taxation": null,
           "Corporate Taxation": null
         },
