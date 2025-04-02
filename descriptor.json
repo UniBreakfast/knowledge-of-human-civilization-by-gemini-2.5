@@ -1,0 +1,173 @@
+{
+  "Physics": {
+    "count": 14,
+    "total": 1155
+  },
+  "Chemistry": {
+    "count": 11,
+    "total": 875
+  },
+  
+  "Biology": {
+    "count": 18,
+    "total": 1555
+  },
+  "Earth Sciences": {
+    "count": 10,
+    "total": 745
+  },
+
+  "Astronomy": {
+    "count": 8,
+    "total": 695
+  },
+  "Environmental Science": {
+    "count": 8,
+    "total": 625
+  },
+  "Sociology": {
+    "count": 12,
+    "total": 920
+  },
+
+  "Psychology": {
+    "count": 12,
+    "total": 960
+  },
+  "Economics": {
+    "count": 12,
+    "total": 1015
+  },
+
+  "Anthropology": {
+    "count": 7,
+    "total": 555
+  },
+  "Political Science": {
+    "count": 7,
+    "total": 585
+  },
+  "History": {
+    "count": 12,
+    "total": 985
+  },
+
+  "Geography": {
+    "count": 13,
+    "total": 965
+  },
+  "Area Studies": {
+    "count": 7,
+    "total": 585
+  },
+  "Communication Studies": {
+    "count": 7,
+    "total": 525
+  },
+
+  "Philosophy": {
+    "count": 11,
+    "total": 925
+  },
+  "Literature": {
+    "count": 9,
+    "total": 735
+  },
+  "Religious Studies": {
+    "count": 7,
+    "total": 540
+  },
+
+  "Arts": {
+    "count": 20,
+    "total": 1545
+  },
+  "Classics": {
+    "count": 5,
+    "total": 410
+  },
+
+  "Linguistics": {
+    "count": 11,
+    "total": 875
+  },
+  "Cultural Studies": {
+    "count": 5,
+    "total": 405
+  },
+  "Logic": {
+    "count": 10,
+    "total": 695
+  },
+
+  "Mathematics": {
+    "count": 26,
+    "total": 1950
+  },
+
+  "Computer Science (Theoretical)": {
+    "count": 9,
+    "total": 730
+  },
+  "Statistics": {
+    "count": 12,
+    "total": 940
+  },
+  "Systems Science": {
+    "count": 6,
+    "total": 455
+  },
+  
+  "Engineering": {
+    "count": 63,
+    "total": 5165
+  },
+
+  "Medicine & Health Sciences": {
+    "count": 47,
+    "total": 3905
+  },
+
+  "Agriculture & Forestry": {
+    "count": 11,
+    "total": 780
+  },
+  "Architecture & Design": {
+    "count": 9,
+    "total": 665
+  },
+  "Education": {
+    "count": 11,
+    "total": 830
+  },
+  
+  "Law": {
+    "count": 18,
+    "total": 1405
+  },
+  "Library & Information Science": {
+    "count": 8,
+    "total": 550
+  },
+  
+  "Business & Management": {
+    "count": 13,
+    "total": 1035
+  },
+  "Military Science": {
+    "count": 6,
+    "total": 450
+  },
+  "Journalism & Media Production": {
+    "count": 8,
+    "total": 540
+  },
+  "Social Work": {
+    "count": 7,
+    "total": 515
+  },
+  "Forensic Science": {
+    "count": 8,
+    "total": 590
+  }
+}
