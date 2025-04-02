@@ -1,762 +1,630 @@
 {
   "Natural Sciences": {
-    "Description": "Study of the natural world through observation and experimentation.",
-    "Subdomains": {
-      "Physics": {
-        "Description": "Study of matter, energy, space, and time.",
-        "Subdomains": {
-          "Classical Mechanics": null,
-          "Electromagnetism": null,
-          "Thermodynamics & Statistical Mechanics": null,
-          "Quantum Mechanics": null,
-          "Relativity (Special & General)": null,
-          "Optics": null,
-          "Acoustics": null,
-          "Condensed Matter Physics": null,
-          "Atomic, Molecular, and Optical Physics (AMO)": null,
-          "Nuclear Physics": null,
-          "Particle Physics": null,
-          "Astrophysics & Cosmology": null,
-          "Biophysics": null,
-          "Geophysics": null
-        }
-      },
-      "Chemistry": {
-        "Description": "Study of substances, their properties, structure, composition, and reactions.",
-        "Subdomains": {
-          "Organic Chemistry": null,
-          "Inorganic Chemistry": null,
-          "Physical Chemistry": null,
-          "Analytical Chemistry": null,
-          "Biochemistry": null,
-          "Theoretical Chemistry": null,
-          "Materials Chemistry": null,
-          "Environmental Chemistry": null,
-          "Polymer Chemistry": null,
-          "Nuclear Chemistry": null,
-          "Astrochemistry": null
-        }
-      },
-      "Biology": {
-        "Description": "Study of life and living organisms.",
-        "Subdomains": {
-          "Molecular Biology": null,
-          "Cell Biology": null,
-          "Genetics & Genomics": null,
-          "Evolutionary Biology": null,
-          "Ecology": null,
-          "Physiology (Animal & Plant)": null,
-          "Anatomy & Morphology": null,
-          "Developmental Biology": null,
-          "Microbiology": null,
-          "Botany": null,
-          "Zoology": null,
-          "Neuroscience": null,
-          "Immunology": null,
-          "Biotechnology": null,
-          "Bioinformatics": null,
-          "Conservation Biology": null,
-          "Paleontology": null,
-          "Synthetic Biology": null
-        }
-      },
-      "Earth Sciences": {
-        "Description": "Study of the physical constitution of the Earth and its atmosphere.",
-        "Subdomains": {
-          "Geology": null,
-          "Oceanography": null,
-          "Meteorology & Climatology": null,
-          "Hydrology": null,
-          "Geomorphology": null,
-          "Seismology": null,
-          "Volcanology": null,
-          "Glaciology": null,
-          "Pedology (Soil Science)": null,
-          "Planetary Science (Earth-focused)": null
-        }
-      },
-      "Astronomy": {
-        "Description": "Study of celestial objects and phenomena.",
-        "Subdomains": {
-          "Observational Astronomy": null,
-          "Theoretical Astrophysics": null,
-          "Cosmology": null,
-          "Planetary Science": null,
-          "Stellar Astronomy": null,
-          "Galactic Astronomy": null,
-          "Extragalactic Astronomy": null,
-          "Astrobiology": null
-        }
-      },
-      "Environmental Science": {
-        "Description": "Interdisciplinary study of environmental systems and human impact.",
-        "Subdomains": {
-          "Environmental Chemistry": null,
-          "Environmental Biology & Ecology": null,
-          "Environmental Geology": null,
-          "Atmospheric Sciences": null,
-          "Ocean Science": null,
-          "Environmental Management & Policy": null,
-          "Conservation Science": null,
-          "Toxicology": null
-        }
-      }
+    "Physics": {
+      "Classical Mechanics": null,
+      "Electromagnetism": null,
+      "Thermodynamics & Statistical Mechanics": null,
+      "Quantum Mechanics": null,
+      "Relativity (Special & General)": null,
+      "Optics": null,
+      "Acoustics": null,
+      "Condensed Matter Physics": null,
+      "Atomic, Molecular, and Optical Physics (AMO)": null,
+      "Nuclear Physics": null,
+      "Particle Physics": null,
+      "Astrophysics & Cosmology": null,
+      "Biophysics": null,
+      "Geophysics": null
+    },
+    "Chemistry": {
+      "Organic Chemistry": null,
+      "Inorganic Chemistry": null,
+      "Physical Chemistry": null,
+      "Analytical Chemistry": null,
+      "Biochemistry": null,
+      "Theoretical Chemistry": null,
+      "Materials Chemistry": null,
+      "Environmental Chemistry": null,
+      "Polymer Chemistry": null,
+      "Nuclear Chemistry": null,
+      "Astrochemistry": null
+    },
+    "Biology": {
+      "Molecular Biology": null,
+      "Cell Biology": null,
+      "Genetics & Genomics": null,
+      "Evolutionary Biology": null,
+      "Ecology": null,
+      "Physiology (Animal & Plant)": null,
+      "Anatomy & Morphology": null,
+      "Developmental Biology": null,
+      "Microbiology": null,
+      "Botany": null,
+      "Zoology": null,
+      "Neuroscience": null,
+      "Immunology": null,
+      "Biotechnology": null,
+      "Bioinformatics": null,
+      "Conservation Biology": null,
+      "Paleontology": null,
+      "Synthetic Biology": null
+    },
+    "Earth Sciences": {
+      "Geology": null,
+      "Oceanography": null,
+      "Meteorology & Climatology": null,
+      "Hydrology": null,
+      "Geomorphology": null,
+      "Seismology": null,
+      "Volcanology": null,
+      "Glaciology": null,
+      "Pedology (Soil Science)": null,
+      "Planetary Science (Earth-focused)": null
+    },
+    "Astronomy": {
+      "Observational Astronomy": null,
+      "Theoretical Astrophysics": null,
+      "Cosmology": null,
+      "Planetary Science": null,
+      "Stellar Astronomy": null,
+      "Galactic Astronomy": null,
+      "Extragalactic Astronomy": null,
+      "Astrobiology": null
+    },
+    "Environmental Science": {
+      "Environmental Chemistry": null,
+      "Environmental Biology & Ecology": null,
+      "Environmental Geology": null,
+      "Atmospheric Sciences": null,
+      "Ocean Science": null,
+      "Environmental Management & Policy": null,
+      "Conservation Science": null,
+      "Toxicology": null
     }
   },
   "Social Sciences": {
-    "Description": "Study of human society and social relationships.",
-    "Subdomains": {
-      "Sociology": {
-        "Description": "Study of social behavior, origins, development, organization, and institutions.",
-        "Subdomains": {
-          "Social Theory": null,
-          "Social Stratification": null,
-          "Demography": null,
-          "Criminology": null,
-          "Urban Sociology": null,
-          "Rural Sociology": null,
-          "Sociology of Culture": null,
-          "Sociology of Religion": null,
-          "Sociology of Education": null,
-          "Medical Sociology": null,
-          "Political Sociology": null,
-          "Economic Sociology": null
-        }
+    "Sociology": {
+      "Social Theory": null,
+      "Social Stratification": null,
+      "Demography": null,
+      "Criminology": null,
+      "Urban Sociology": null,
+      "Rural Sociology": null,
+      "Sociology of Culture": null,
+      "Sociology of Religion": null,
+      "Sociology of Education": null,
+      "Medical Sociology": null,
+      "Political Sociology": null,
+      "Economic Sociology": null
+    },
+    "Psychology": {
+      "Clinical Psychology": null,
+      "Cognitive Psychology": null,
+      "Developmental Psychology": null,
+      "Social Psychology": null,
+      "Biological Psychology / Neuropsychology": null,
+      "Educational Psychology": null,
+      "Industrial-Organizational Psychology": null,
+      "Personality Psychology": null,
+      "Abnormal Psychology": null,
+      "Health Psychology": null,
+      "Comparative Psychology": null,
+      "Evolutionary Psychology": null
+    },
+    "Anthropology": {
+      "Cultural Anthropology": null,
+      "Social Anthropology": null,
+      "Archaeology": null,
+      "Biological (Physical) Anthropology": null,
+      "Linguistic Anthropology": null,
+      "Medical Anthropology": null,
+      "Visual Anthropology": null
+    },
+    "Economics": {
+      "Microeconomics": null,
+      "Macroeconomics": null,
+      "Econometrics": null,
+      "International Economics": null,
+      "Development Economics": null,
+      "Labor Economics": null,
+      "Public Finance": null,
+      "Industrial Organization": null,
+      "Behavioral Economics": null,
+      "Environmental Economics": null,
+      "Financial Economics": null,
+      "Economic History": null
+    },
+    "Political Science": {
+      "Comparative Politics": null,
+      "International Relations": null,
+      "Political Theory / Philosophy": null,
+      "Public Administration & Policy": null,
+      "National Politics (specific countries/regions)": null,
+      "Political Economy": null,
+      "Political Methodology": null
+    },
+    "History": {
+      "Ancient History": null,
+      "Medieval History": null,
+      "Modern History": null,
+      "Contemporary History": null,
+      "Cultural History": null,
+      "Social History": null,
+      "Economic History": null,
+      "Political History": null,
+      "Military History": null,
+      "History of Science & Technology": null,
+      "Historiography": null,
+      "Regional / National Histories": null
+    },
+    "Geography": {
+      "Human Geography": {
+        "Cultural Geography": null,
+        "Economic Geography": null,
+        "Political Geography": null,
+        "Urban Geography": null,
+        "Social Geography": null,
+        "Population Geography": null
       },
-      "Psychology": {
-        "Description": "Study of mind and behavior.",
-        "Subdomains": {
-          "Clinical Psychology": null,
-          "Cognitive Psychology": null,
-          "Developmental Psychology": null,
-          "Social Psychology": null,
-          "Biological Psychology / Neuropsychology": null,
-          "Educational Psychology": null,
-          "Industrial-Organizational Psychology": null,
-          "Personality Psychology": null,
-          "Abnormal Psychology": null,
-          "Health Psychology": null,
-          "Comparative Psychology": null,
-          "Evolutionary Psychology": null
-        }
+      "Physical Geography (overlaps with Earth Sciences)": {
+        "Geomorphology": null,
+        "Climatology": null,
+        "Biogeography": null,
+        "Hydrology": null
       },
-      "Anthropology": {
-        "Description": "Study of human societies, cultures, and their development.",
-        "Subdomains": {
-          "Cultural Anthropology": null,
-          "Social Anthropology": null,
-          "Archaeology": null,
-          "Biological (Physical) Anthropology": null,
-          "Linguistic Anthropology": null,
-          "Medical Anthropology": null,
-          "Visual Anthropology": null
-        }
-      },
-      "Economics": {
-        "Description": "Study of production, distribution, and consumption of goods and services.",
-        "Subdomains": {
-          "Microeconomics": null,
-          "Macroeconomics": null,
-          "Econometrics": null,
-          "International Economics": null,
-          "Development Economics": null,
-          "Labor Economics": null,
-          "Public Finance": null,
-          "Industrial Organization": null,
-          "Behavioral Economics": null,
-          "Environmental Economics": null,
-          "Financial Economics": null,
-          "Economic History": null
-        }
-      },
-      "Political Science": {
-        "Description": "Study of systems of governance, political activities, thoughts, and behavior.",
-        "Subdomains": {
-          "Comparative Politics": null,
-          "International Relations": null,
-          "Political Theory / Philosophy": null,
-          "Public Administration & Policy": null,
-          "National Politics (specific countries/regions)": null,
-          "Political Economy": null,
-          "Political Methodology": null
-        }
-      },
-      "History": {
-        "Description": "Study of past events, particularly in human affairs.",
-        "Subdomains": {
-          "Ancient History": null,
-          "Medieval History": null,
-          "Modern History": null,
-          "Contemporary History": null,
-          "Cultural History": null,
-          "Social History": null,
-          "Economic History": null,
-          "Political History": null,
-          "Military History": null,
-          "History of Science & Technology": null,
-          "Historiography": null,
-          "Regional / National Histories": null
-        }
-      },
-      "Geography": {
-        "Description": "Study of lands, features, inhabitants, and phenomena of Earth.",
-        "Subdomains": {
-          "Human Geography": {
-            "Cultural Geography": null,
-            "Economic Geography": null,
-            "Political Geography": null,
-            "Urban Geography": null,
-            "Social Geography": null,
-            "Population Geography": null
-          },
-          "Physical Geography (overlaps with Earth Sciences)": {
-            "Geomorphology": null,
-            "Climatology": null,
-            "Biogeography": null,
-            "Hydrology": null
-          },
-          "Geographic Information Science (GIS)": null,
-          "Cartography": null,
-          "Regional Geography": null
-        }
-      },
-      "Area Studies": {
-        "Description": "Interdisciplinary study of specific geographical, national, or cultural regions.",
-        "Subdomains": {
-          "African Studies": null,
-          "American Studies": null,
-          "Asian Studies": null,
-          "European Studies": null,
-          "Latin American Studies": null,
-          "Middle Eastern Studies": null,
-          "Oceanian Studies": null
-        }
-      },
-      "Communication Studies": {
-        "Description": "Study of processes of human communication.",
-        "Subdomains": {
-          "Interpersonal Communication": null,
-          "Mass Communication & Media Studies": null,
-          "Organizational Communication": null,
-          "Political Communication": null,
-          "Health Communication": null,
-          "Intercultural Communication": null,
-          "Rhetoric": null
-        }
-      }
+      "Geographic Information Science (GIS)": null,
+      "Cartography": null,
+      "Regional Geography": null
+    },
+    "Area Studies": {
+      "African Studies": null,
+      "American Studies": null,
+      "Asian Studies": null,
+      "European Studies": null,
+      "Latin American Studies": null,
+      "Middle Eastern Studies": null,
+      "Oceanian Studies": null
+    },
+    "Communication Studies": {
+      "Interpersonal Communication": null,
+      "Mass Communication & Media Studies": null,
+      "Organizational Communication": null,
+      "Political Communication": null,
+      "Health Communication": null,
+      "Intercultural Communication": null,
+      "Rhetoric": null
     }
   },
   "Humanities": {
-    "Description": "Study of human culture, expression, and experience.",
-    "Subdomains": {
-      "Philosophy": {
-        "Description": "Study of fundamental questions about existence, knowledge, values, reason, mind, and language.",
-        "Subdomains": {
-          "Metaphysics": null,
-          "Epistemology": null,
-          "Ethics": null,
-          "Logic (overlaps with Formal Sciences)": null,
-          "Aesthetics": null,
-          "Political Philosophy": null,
-          "Philosophy of Mind": null,
-          "Philosophy of Language": null,
-          "Philosophy of Science": null,
-          "Philosophy of Religion": null,
-          "History of Philosophy (Ancient, Medieval, Modern, Contemporary)": null
-        }
+    "Philosophy": {
+      "Metaphysics": null,
+      "Epistemology": null,
+      "Ethics": null,
+      "Logic (overlaps with Formal Sciences)": null,
+      "Aesthetics": null,
+      "Political Philosophy": null,
+      "Philosophy of Mind": null,
+      "Philosophy of Language": null,
+      "Philosophy of Science": null,
+      "Philosophy of Religion": null,
+      "History of Philosophy (Ancient, Medieval, Modern, Contemporary)": null
+    },
+    "Literature": {
+      "Poetry": null,
+      "Prose (Fiction & Non-Fiction)": null,
+      "Drama": null,
+      "Literary Theory & Criticism": null,
+      "Comparative Literature": null,
+      "National / Regional Literatures": null,
+      "Classical Literature": null,
+      "Modern Literature": null,
+      "Children's Literature": null
+    },
+    "Arts": {
+      "Visual Arts": {
+        "Painting": null,
+        "Sculpture": null,
+        "Drawing": null,
+        "Printmaking": null,
+        "Photography": null,
+        "Architecture (overlaps with Applied Sciences)": null,
+        "Conceptual Art": null,
+        "Digital Art": null,
+        "Textile Arts": null,
+        "Ceramics": null
       },
-      "Literature": {
-        "Description": "Study of written works, especially those considered of superior or lasting artistic merit.",
-        "Subdomains": {
-          "Poetry": null,
-          "Prose (Fiction & Non-Fiction)": null,
-          "Drama": null,
-          "Literary Theory & Criticism": null,
-          "Comparative Literature": null,
-          "National / Regional Literatures": null,
-          "Classical Literature": null,
-          "Modern Literature": null,
-          "Children's Literature": null
-        }
+      "Performing Arts": {
+        "Music": null,
+        "Theatre": null,
+        "Dance": null,
+        "Opera": null,
+        "Film & Cinema Studies": null,
+        "Performance Art": null
       },
-      "Arts": {
-        "Description": "Study and practice of creative expression and aesthetics.",
-        "Subdomains": {
-          "Visual Arts": {
-            "Painting": null,
-            "Sculpture": null,
-            "Drawing": null,
-            "Printmaking": null,
-            "Photography": null,
-            "Architecture (overlaps with Applied Sciences)": null,
-            "Conceptual Art": null,
-            "Digital Art": null,
-            "Textile Arts": null,
-            "Ceramics": null
-          },
-          "Performing Arts": {
-            "Music": null,
-            "Theatre": null,
-            "Dance": null,
-            "Opera": null,
-            "Film & Cinema Studies": null,
-            "Performance Art": null
-          },
-          "Art History": null,
-          "Art Criticism & Theory": null,
-          "Musicology": null,
-          "Film Theory & Criticism": null
-        }
-      },
-      "Linguistics": {
-        "Description": "Scientific study of language.",
-        "Subdomains": {
-          "Phonetics & Phonology": null,
-          "Morphology": null,
-          "Syntax": null,
-          "Semantics": null,
-          "Pragmatics": null,
-          "Historical Linguistics": null,
-          "Sociolinguistics": null,
-          "Psycholinguistics": null,
-          "Computational Linguistics": null,
-          "Applied Linguistics": null,
-          "Neurolinguistics": null
-        }
-      },
-      "Religious Studies": {
-        "Description": "Study of religious beliefs, behaviors, and institutions.",
-        "Subdomains": {
-          "Comparative Religion": null,
-          "Theology (specific traditions)": null,
-          "Philosophy of Religion": null,
-          "Sociology of Religion": null,
-          "Anthropology of Religion": null,
-          "History of Religions": null,
-          "Religious Texts & Hermeneutics": null
-        }
-      },
-      "Classics": {
-        "Description": "Study of the languages, literature, history, and culture of ancient Greece and Rome.",
-        "Subdomains": {
-          "Greek Language & Literature": null,
-          "Latin Language & Literature": null,
-          "Ancient History (Greek & Roman)": null,
-          "Classical Archaeology": null,
-          "Classical Philosophy": null
-        }
-      },
-      "Cultural Studies": {
-        "Description": "Interdisciplinary field examining cultural practices and their relation to power.",
-        "Subdomains": {
-          "Media Studies": null,
-          "Gender Studies": null,
-          "Postcolonial Studies": null,
-          "Popular Culture Studies": null,
-          "Critical Theory": null
-        }
-      }
+      "Art History": null,
+      "Art Criticism & Theory": null,
+      "Musicology": null,
+      "Film Theory & Criticism": null
+    },
+    "Linguistics": {
+      "Phonetics & Phonology": null,
+      "Morphology": null,
+      "Syntax": null,
+      "Semantics": null,
+      "Pragmatics": null,
+      "Historical Linguistics": null,
+      "Sociolinguistics": null,
+      "Psycholinguistics": null,
+      "Computational Linguistics": null,
+      "Applied Linguistics": null,
+      "Neurolinguistics": null
+    },
+    "Religious Studies": {
+      "Comparative Religion": null,
+      "Theology (specific traditions)": null,
+      "Philosophy of Religion": null,
+      "Sociology of Religion": null,
+      "Anthropology of Religion": null,
+      "History of Religions": null,
+      "Religious Texts & Hermeneutics": null
+    },
+    "Classics": {
+      "Greek Language & Literature": null,
+      "Latin Language & Literature": null,
+      "Ancient History (Greek & Roman)": null,
+      "Classical Archaeology": null,
+      "Classical Philosophy": null
+    },
+    "Cultural Studies": {
+      "Media Studies": null,
+      "Gender Studies": null,
+      "Postcolonial Studies": null,
+      "Popular Culture Studies": null,
+      "Critical Theory": null
     }
   },
   "Formal Sciences": {
-    "Description": "Disciplines concerned with formal systems, such as logic, mathematics, statistics, theoretical computer science.",
-    "Subdomains": {
-      "Mathematics": {
-        "Description": "Study of quantity, structure, space, and change.",
-        "Subdomains": {
-          "Foundations of Mathematics": null,
-          "Set Theory": null,
-          "Logic": null,
-          "Number Theory": null,
-          "Algebra": {
-            "Elementary Algebra": null,
-            "Linear Algebra": null,
-            "Abstract Algebra": null,
-            "Universal Algebra": null,
-            "Commutative Algebra": null
-          },
-          "Geometry": {
-            "Euclidean Geometry": null,
-            "Non-Euclidean Geometry": null,
-            "Differential Geometry": null,
-            "Algebraic Geometry": null,
-            "Topology": null
-          },
-          "Analysis": {
-            "Calculus": null,
-            "Real Analysis": null,
-            "Complex Analysis": null,
-            "Functional Analysis": null,
-            "Differential Equations": null,
-            "Measure Theory": null
-          },
-          "Combinatorics": null,
-          "Probability Theory": null,
-          "Applied Mathematics": null,
-          "Mathematical Physics": null,
-          "Numerical Analysis": null,
-          "Game Theory": null
-        }
+    "Mathematics": {
+      "Foundations of Mathematics": null,
+      "Set Theory": null,
+      "Logic": null,
+      "Number Theory": null,
+      "Algebra": {
+        "Elementary Algebra": null,
+        "Linear Algebra": null,
+        "Abstract Algebra": null,
+        "Universal Algebra": null,
+        "Commutative Algebra": null
       },
-      "Logic": {
-        "Description": "Study of reasoning and valid inference.",
-        "Subdomains": {
-          "Propositional Logic": null,
-          "Predicate Logic": null,
-          "Modal Logic": null,
-          "Mathematical Logic": null,
-          "Philosophical Logic": null,
-          "Computational Logic": null,
-          "Set Theory": null,
-          "Model Theory": null,
-          "Proof Theory": null,
-          "Computability Theory": null
-        }
+      "Geometry": {
+        "Euclidean Geometry": null,
+        "Non-Euclidean Geometry": null,
+        "Differential Geometry": null,
+        "Algebraic Geometry": null,
+        "Topology": null
       },
-      "Computer Science (Theoretical)": {
-        "Description": "Study of the theoretical foundations of computation and information.",
-        "Subdomains": {
-          "Theory of Computation": null,
-          "Algorithms & Data Structures": null,
-          "Complexity Theory": null,
-          "Information Theory": null,
-          "Coding Theory": null,
-          "Cryptography (Theoretical)": null,
-          "Formal Methods": null,
-          "Programming Language Theory": null,
-          "Quantum Computing (Theoretical)": null
-        }
+      "Analysis": {
+        "Calculus": null,
+        "Real Analysis": null,
+        "Complex Analysis": null,
+        "Functional Analysis": null,
+        "Differential Equations": null,
+        "Measure Theory": null
       },
-      "Statistics": {
-        "Description": "Study of the collection, analysis, interpretation, presentation, and organization of data.",
-        "Subdomains": {
-          "Descriptive Statistics": null,
-          "Inferential Statistics": null,
-          "Probability Theory (foundational)": null,
-          "Regression Analysis": null,
-          "Experimental Design": null,
-          "Survey Sampling": null,
-          "Time Series Analysis": null,
-          "Multivariate Analysis": null,
-          "Bayesian Statistics": null,
-          "Computational Statistics / Machine Learning": null,
-          "Biostatistics": null,
-          "Econometrics": null
-        }
-      },
-      "Systems Science": {
-        "Description": "Interdisciplinary field studying the nature of systems – from simple to complex – in nature, society, and science itself.",
-        "Subdomains": {
-          "Cybernetics": null,
-          "Control Theory": null,
-          "Operations Research": null,
-          "Systems Dynamics": null,
-          "Chaos Theory": null,
-          "Complex Systems": null
-        }
-      }
+      "Combinatorics": null,
+      "Probability Theory": null,
+      "Applied Mathematics": null,
+      "Mathematical Physics": null,
+      "Numerical Analysis": null,
+      "Game Theory": null
+    },
+    "Logic": {
+      "Propositional Logic": null,
+      "Predicate Logic": null,
+      "Modal Logic": null,
+      "Mathematical Logic": null,
+      "Philosophical Logic": null,
+      "Computational Logic": null,
+      "Set Theory": null,
+      "Model Theory": null,
+      "Proof Theory": null,
+      "Computability Theory": null
+    },
+    "Computer Science (Theoretical)": {
+      "Theory of Computation": null,
+      "Algorithms & Data Structures": null,
+      "Complexity Theory": null,
+      "Information Theory": null,
+      "Coding Theory": null,
+      "Cryptography (Theoretical)": null,
+      "Formal Methods": null,
+      "Programming Language Theory": null,
+      "Quantum Computing (Theoretical)": null
+    },
+    "Statistics": {
+      "Descriptive Statistics": null,
+      "Inferential Statistics": null,
+      "Probability Theory (foundational)": null,
+      "Regression Analysis": null,
+      "Experimental Design": null,
+      "Survey Sampling": null,
+      "Time Series Analysis": null,
+      "Multivariate Analysis": null,
+      "Bayesian Statistics": null,
+      "Computational Statistics / Machine Learning": null,
+      "Biostatistics": null,
+      "Econometrics": null
+    },
+    "Systems Science": {
+      "Cybernetics": null,
+      "Control Theory": null,
+      "Operations Research": null,
+      "Systems Dynamics": null,
+      "Chaos Theory": null,
+      "Complex Systems": null
     }
   },
   "Applied Sciences & Technology": {
-    "Description": "Application of scientific knowledge for practical purposes.",
-    "Subdomains": {
-      "Engineering": {
-        "Description": "Application of science and math to design, build, and maintain structures, machines, systems, materials and processes.",
-        "Subdomains": {
-          "Civil Engineering": {
-            "Structural Engineering": null,
-            "Geotechnical Engineering": null,
-            "Transportation Engineering": null,
-            "Water Resources Engineering": null,
-            "Environmental Engineering": null,
-            "Construction Engineering": null
-          },
-          "Mechanical Engineering": {
-            "Thermodynamics & Heat Transfer": null,
-            "Fluid Mechanics": null,
-            "Solid Mechanics": null,
-            "Machine Design": null,
-            "Robotics": null,
-            "Manufacturing Engineering": null,
-            "Mechatronics": null
-          },
-          "Electrical Engineering": {
-            "Power Engineering": null,
-            "Electronics": null,
-            "Control Systems": null,
-            "Signal Processing": null,
-            "Telecommunications": null,
-            "Microelectronics / VLSI": null,
-            "Computer Engineering (Hardware)": null
-          },
-          "Chemical Engineering": {
-            "Process Design & Control": null,
-            "Transport Phenomena": null,
-            "Thermodynamics": null,
-            "Reaction Engineering": null,
-            "Materials Science": null,
-            "Biochemical Engineering": null
-          },
-          "Computer Science & Engineering (Applied)": {
-            "Software Engineering": null,
-            "Computer Systems & Networks": null,
-            "Databases & Information Retrieval": null,
-            "Artificial Intelligence & Machine Learning": null,
-            "Human-Computer Interaction (HCI)": null,
-            "Computer Graphics & Vision": null,
-            "Cybersecurity": null,
-            "Distributed Systems": null
-          },
-          "Aerospace Engineering": {
-            "Aerodynamics": null,
-            "Astrodynamics & Orbital Mechanics": null,
-            "Propulsion": null,
-            "Structures & Materials": null,
-            "Avionics & Control Systems": null
-          },
-          "Biomedical Engineering": {
-            "Biomechanics": null,
-            "Biomaterials": null,
-            "Medical Imaging": null,
-            "Bioinstrumentation": null,
-            "Tissue Engineering": null,
-            "Rehabilitation Engineering": null
-          },
-          "Materials Science & Engineering": {
-            "Metallurgy": null,
-            "Ceramics": null,
-            "Polymers": null,
-            "Composites": null,
-            "Nanomaterials": null,
-            "Semiconductors": null
-          },
-          "Environmental Engineering": null,
-          "Industrial & Systems Engineering": {
-            "Operations Research": null,
-            "Supply Chain Management": null,
-            "Ergonomics / Human Factors": null,
-            "Quality Engineering": null,
-            "Manufacturing Systems": null
-          },
-          "Nuclear Engineering": null,
-          "Agricultural Engineering": null,
-          "Marine Engineering & Naval Architecture": null,
-          "Petroleum Engineering": null,
-          "Mining Engineering": null,
-          "Geological Engineering": null
-        }
+    "Engineering": {
+      "Civil Engineering": {
+        "Structural Engineering": null,
+        "Geotechnical Engineering": null,
+        "Transportation Engineering": null,
+        "Water Resources Engineering": null,
+        "Environmental Engineering": null,
+        "Construction Engineering": null
       },
-      "Medicine & Health Sciences": {
-        "Description": "Science and practice of the diagnosis, treatment, and prevention of disease.",
-        "Subdomains": {
-          "Basic Medical Sciences": {
-            "Anatomy": null,
-            "Physiology": null,
-            "Biochemistry": null,
-            "Pharmacology": null,
-            "Pathology": null,
-            "Microbiology": null,
-            "Immunology": null,
-            "Medical Genetics": null
-          },
-          "Clinical Medicine": {
-            "Internal Medicine": null,
-            "Surgery": null,
-            "Pediatrics": null,
-            "Obstetrics & Gynecology": null,
-            "Psychiatry": null,
-            "Neurology": null,
-            "Cardiology": null,
-            "Oncology": null,
-            "Dermatology": null,
-            "Ophthalmology": null,
-            "Radiology & Medical Imaging": null,
-            "Anesthesiology": null,
-            "Emergency Medicine": null,
-            "Family Medicine": null,
-            "Geriatrics": null,
-            "Infectious Diseases": null,
-            "Endocrinology": null,
-            "Gastroenterology": null,
-            "Nephrology": null,
-            "Pulmonology": null,
-            "Rheumatology": null
-          },
-          "Public Health": {
-            "Epidemiology": null,
-            "Biostatistics": null,
-            "Environmental Health": null,
-            "Health Policy & Management": null,
-            "Social & Behavioral Health": null,
-            "Global Health": null
-          },
-          "Dentistry": null,
-          "Nursing": null,
-          "Pharmacy": null,
-          "Veterinary Medicine": null,
-          "Allied Health Professions": {
-            "Physical Therapy": null,
-            "Occupational Therapy": null,
-            "Medical Laboratory Science": null,
-            "Dietetics & Nutrition": null,
-            "Speech-Language Pathology": null,
-            "Audiology": null
-          },
-          "Alternative & Complementary Medicine": null,
-          "Medical Ethics": null
-        }
+      "Mechanical Engineering": {
+        "Thermodynamics & Heat Transfer": null,
+        "Fluid Mechanics": null,
+        "Solid Mechanics": null,
+        "Machine Design": null,
+        "Robotics": null,
+        "Manufacturing Engineering": null,
+        "Mechatronics": null
       },
-      "Agriculture & Forestry": {
-        "Description": "Science and practice of farming, cultivation of soil, production of crops, and raising livestock; management of forests.",
-        "Subdomains": {
-          "Agronomy": null,
-          "Horticulture": null,
-          "Animal Science": null,
-          "Soil Science": null,
-          "Agricultural Economics": null,
-          "Agricultural Engineering": null,
-          "Plant Pathology": null,
-          "Entomology (Agricultural)": null,
-          "Forestry": null,
-          "Aquaculture & Fisheries": null,
-          "Food Science & Technology": null
-        }
+      "Electrical Engineering": {
+        "Power Engineering": null,
+        "Electronics": null,
+        "Control Systems": null,
+        "Signal Processing": null,
+        "Telecommunications": null,
+        "Microelectronics / VLSI": null,
+        "Computer Engineering (Hardware)": null
       },
-      "Architecture & Design": {
-        "Description": "Art and science of designing and constructing buildings and other physical structures; planning and creation of products, systems, services.",
-        "Subdomains": {
-          "Architectural Design": null,
-          "Urban Planning & Design": null,
-          "Landscape Architecture": null,
-          "Interior Design": null,
-          "Industrial Design": null,
-          "Graphic Design": null,
-          "Fashion Design": null,
-          "Architectural History & Theory": null,
-          "Building Technology & Construction Management": null
-        }
+      "Chemical Engineering": {
+        "Process Design & Control": null,
+        "Transport Phenomena": null,
+        "Thermodynamics": null,
+        "Reaction Engineering": null,
+        "Materials Science": null,
+        "Biochemical Engineering": null
       },
-      "Business & Management": {
-        "Description": "Organization and coordination of the activities of a business.",
-        "Subdomains": {
-          "Management Science & Operations Research": null,
-          "Organizational Behavior & Human Resource Management": null,
-          "Marketing": null,
-          "Finance": null,
-          "Accounting": null,
-          "Strategic Management": null,
-          "Entrepreneurship": null,
-          "International Business": null,
-          "Information Systems Management": null,
-          "Supply Chain Management & Logistics": null,
-          "Business Ethics & Corporate Social Responsibility": null,
-          "Hospitality Management": null,
-          "Real Estate": null
-        }
+      "Computer Science & Engineering (Applied)": {
+        "Software Engineering": null,
+        "Computer Systems & Networks": null,
+        "Databases & Information Retrieval": null,
+        "Artificial Intelligence & Machine Learning": null,
+        "Human-Computer Interaction (HCI)": null,
+        "Computer Graphics & Vision": null,
+        "Cybersecurity": null,
+        "Distributed Systems": null
       },
-      "Education": {
-        "Description": "Process of facilitating learning, or the acquisition of knowledge, skills, values, beliefs, and habits.",
-        "Subdomains": {
-          "Educational Psychology": null,
-          "Curriculum & Instruction": null,
-          "Educational Administration & Leadership": null,
-          "Educational Policy": null,
-          "Special Education": null,
-          "Early Childhood Education": null,
-          "Higher Education": null,
-          "Adult Education & Lifelong Learning": null,
-          "Educational Technology": null,
-          "Comparative Education": null,
-          "Pedagogy": null
-        }
+      "Aerospace Engineering": {
+        "Aerodynamics": null,
+        "Astrodynamics & Orbital Mechanics": null,
+        "Propulsion": null,
+        "Structures & Materials": null,
+        "Avionics & Control Systems": null
       },
-      "Law": {
-        "Description": "System of rules recognized by a country or community as regulating the actions of its members and which it may enforce by the imposition of penalties.",
-        "Subdomains": {
-          "Constitutional Law": null,
-          "Criminal Law": null,
-          "Civil Law / Private Law": {
-            "Contract Law": null,
-            "Tort Law": null,
-            "Property Law": null,
-            "Family Law": null,
-            "Inheritance Law": null
-          },
-          "Administrative Law": null,
-          "International Law": null,
-          "Corporate Law / Business Law": null,
-          "Environmental Law": null,
-          "Intellectual Property Law": null,
-          "Tax Law": null,
-          "Labor Law": null,
-          "Human Rights Law": null,
-          "Legal Theory / Jurisprudence": null,
-          "Comparative Law": null,
-          "Legal History": null
-        }
+      "Biomedical Engineering": {
+        "Biomechanics": null,
+        "Biomaterials": null,
+        "Medical Imaging": null,
+        "Bioinstrumentation": null,
+        "Tissue Engineering": null,
+        "Rehabilitation Engineering": null
       },
-      "Library & Information Science": {
-        "Description": "Interdisciplinary field concerned with the organization, access, collection, and preservation of information resources.",
-        "Subdomains": {
-          "Cataloging & Classification": null,
-          "Information Architecture": null,
-          "Archival Science": null,
-          "Preservation & Conservation": null,
-          "Information Retrieval": null,
-          "Digital Libraries": null,
-          "Bibliometrics / Scientometrics": null,
-          "Knowledge Management": null
-        }
+      "Materials Science & Engineering": {
+        "Metallurgy": null,
+        "Ceramics": null,
+        "Polymers": null,
+        "Composites": null,
+        "Nanomaterials": null,
+        "Semiconductors": null
       },
-      "Military Science": {
-        "Description": "Study of military processes, institutions, and behavior, along with the study of warfare, and the theory and application of organized coercive force.",
-        "Subdomains": {
-          "Military Strategy & Tactics": null,
-          "Military History": null,
-          "Logistics": null,
-          "Military Organization & Leadership": null,
-          "Defense Studies & Security Policy": null,
-          "Military Technology & Engineering": null
-        }
+      "Environmental Engineering": null,
+      "Industrial & Systems Engineering": {
+        "Operations Research": null,
+        "Supply Chain Management": null,
+        "Ergonomics / Human Factors": null,
+        "Quality Engineering": null,
+        "Manufacturing Systems": null
       },
-      "Journalism & Media Production": {
-        "Description": "Gathering, assessing, creating, and presenting news and information.",
-        "Subdomains": {
-          "Broadcast Journalism": null,
-          "Print Journalism": null,
-          "Online Journalism": null,
-          "Photojournalism": null,
-          "Investigative Journalism": null,
-          "Media Ethics": null,
-          "Film & Television Production": null,
-          "Audio Production": null
-        }
+      "Nuclear Engineering": null,
+      "Agricultural Engineering": null,
+      "Marine Engineering & Naval Architecture": null,
+      "Petroleum Engineering": null,
+      "Mining Engineering": null,
+      "Geological Engineering": null
+    },
+    "Medicine & Health Sciences": {
+      "Basic Medical Sciences": {
+        "Anatomy": null,
+        "Physiology": null,
+        "Biochemistry": null,
+        "Pharmacology": null,
+        "Pathology": null,
+        "Microbiology": null,
+        "Immunology": null,
+        "Medical Genetics": null
       },
-      "Social Work": {
-        "Description": "Profession concerned with helping individuals, families, groups and communities to enhance their individual and collective well-being.",
-        "Subdomains": {
-          "Clinical Social Work": null,
-          "Community Social Work": null,
-          "Social Policy & Advocacy": null,
-          "Child Welfare": null,
-          "Gerontological Social Work": null,
-          "Medical Social Work": null,
-          "School Social Work": null
-        }
+      "Clinical Medicine": {
+        "Internal Medicine": null,
+        "Surgery": null,
+        "Pediatrics": null,
+        "Obstetrics & Gynecology": null,
+        "Psychiatry": null,
+        "Neurology": null,
+        "Cardiology": null,
+        "Oncology": null,
+        "Dermatology": null,
+        "Ophthalmology": null,
+        "Radiology & Medical Imaging": null,
+        "Anesthesiology": null,
+        "Emergency Medicine": null,
+        "Family Medicine": null,
+        "Geriatrics": null,
+        "Infectious Diseases": null,
+        "Endocrinology": null,
+        "Gastroenterology": null,
+        "Nephrology": null,
+        "Pulmonology": null,
+        "Rheumatology": null
       },
-      "Forensic Science": {
-        "Description": "Application of science to criminal and civil laws.",
-        "Subdomains": {
-          "Forensic Pathology": null,
-          "Forensic Anthropology": null,
-          "Forensic Toxicology": null,
-          "Forensic DNA Analysis": null,
-          "Digital Forensics": null,
-          "Ballistics": null,
-          "Trace Evidence Analysis": null,
-          "Forensic Psychology": null
-        }
-      }
+      "Public Health": {
+        "Epidemiology": null,
+        "Biostatistics": null,
+        "Environmental Health": null,
+        "Health Policy & Management": null,
+        "Social & Behavioral Health": null,
+        "Global Health": null
+      },
+      "Dentistry": null,
+      "Nursing": null,
+      "Pharmacy": null,
+      "Veterinary Medicine": null,
+      "Allied Health Professions": {
+        "Physical Therapy": null,
+        "Occupational Therapy": null,
+        "Medical Laboratory Science": null,
+        "Dietetics & Nutrition": null,
+        "Speech-Language Pathology": null,
+        "Audiology": null
+      },
+      "Alternative & Complementary Medicine": null,
+      "Medical Ethics": null
+    },
+    "Agriculture & Forestry": {
+      "Agronomy": null,
+      "Horticulture": null,
+      "Animal Science": null,
+      "Soil Science": null,
+      "Agricultural Economics": null,
+      "Agricultural Engineering": null,
+      "Plant Pathology": null,
+      "Entomology (Agricultural)": null,
+      "Forestry": null,
+      "Aquaculture & Fisheries": null,
+      "Food Science & Technology": null
+    },
+    "Architecture & Design": {
+      "Architectural Design": null,
+      "Urban Planning & Design": null,
+      "Landscape Architecture": null,
+      "Interior Design": null,
+      "Industrial Design": null,
+      "Graphic Design": null,
+      "Fashion Design": null,
+      "Architectural History & Theory": null,
+      "Building Technology & Construction Management": null
+    },
+    "Business & Management": {
+      "Management Science & Operations Research": null,
+      "Organizational Behavior & Human Resource Management": null,
+      "Marketing": null,
+      "Finance": null,
+      "Accounting": null,
+      "Strategic Management": null,
+      "Entrepreneurship": null,
+      "International Business": null,
+      "Information Systems Management": null,
+      "Supply Chain Management & Logistics": null,
+      "Business Ethics & Corporate Social Responsibility": null,
+      "Hospitality Management": null,
+      "Real Estate": null
+    },
+    "Education": {
+      "Educational Psychology": null,
+      "Curriculum & Instruction": null,
+      "Educational Administration & Leadership": null,
+      "Educational Policy": null,
+      "Special Education": null,
+      "Early Childhood Education": null,
+      "Higher Education": null,
+      "Adult Education & Lifelong Learning": null,
+      "Educational Technology": null,
+      "Comparative Education": null,
+      "Pedagogy": null
+    },
+    "Law": {
+      "Constitutional Law": null,
+      "Criminal Law": null,
+      "Civil Law / Private Law": {
+        "Contract Law": null,
+        "Tort Law": null,
+        "Property Law": null,
+        "Family Law": null,
+        "Inheritance Law": null
+      },
+      "Administrative Law": null,
+      "International Law": null,
+      "Corporate Law / Business Law": null,
+      "Environmental Law": null,
+      "Intellectual Property Law": null,
+      "Tax Law": null,
+      "Labor Law": null,
+      "Human Rights Law": null,
+      "Legal Theory / Jurisprudence": null,
+      "Comparative Law": null,
+      "Legal History": null
+    },
+    "Library & Information Science": {
+      "Cataloging & Classification": null,
+      "Information Architecture": null,
+      "Archival Science": null,
+      "Preservation & Conservation": null,
+      "Information Retrieval": null,
+      "Digital Libraries": null,
+      "Bibliometrics / Scientometrics": null,
+      "Knowledge Management": null
+    },
+    "Military Science": {
+      "Military Strategy & Tactics": null,
+      "Military History": null,
+      "Logistics": null,
+      "Military Organization & Leadership": null,
+      "Defense Studies & Security Policy": null,
+      "Military Technology & Engineering": null
+    },
+    "Journalism & Media Production": {
+      "Broadcast Journalism": null,
+      "Print Journalism": null,
+      "Online Journalism": null,
+      "Photojournalism": null,
+      "Investigative Journalism": null,
+      "Media Ethics": null,
+      "Film & Television Production": null,
+      "Audio Production": null
+    },
+    "Social Work": {
+      "Clinical Social Work": null,
+      "Community Social Work": null,
+      "Social Policy & Advocacy": null,
+      "Child Welfare": null,
+      "Gerontological Social Work": null,
+      "Medical Social Work": null,
+      "School Social Work": null
+    },
+    "Forensic Science": {
+      "Forensic Pathology": null,
+      "Forensic Anthropology": null,
+      "Forensic Toxicology": null,
+      "Forensic DNA Analysis": null,
+      "Digital Forensics": null,
+      "Ballistics": null,
+      "Trace Evidence Analysis": null,
+      "Forensic Psychology": null
     }
   }
 }
