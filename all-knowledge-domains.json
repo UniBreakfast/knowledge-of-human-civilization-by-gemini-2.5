@@ -2492,8 +2492,18 @@
         "Zooarchaeology": null,
         "Paleoethnobotany": null,
         "Underwater Archaeology": null,
-        "Public Archaeology & Cultural Resource Management (CRM)": null,
-        "Specific Regional Archaeologies (e.g., Egyptian, Mesoamerican, Classical)": null
+        "Public Archaeology & Cultural Resource Management": null,
+        "Regional Archaeologies": {
+          "Archaeology of Egypt": null,
+          "Archaeology of Mesoamerican Regions": null,
+          "Archaeology of Classical Regions": null,
+          "Archaeology of Mediterranean Regions": null,
+          "Archaeology of Southeast Asia": null,
+          "Archaeology of Africa": null,
+          "Archaeology of Oceania": null,
+          "Archaeology of South America": null,
+          "Archaeology of Central Asia": null
+        }
       },
       "Biological (Physical) Anthropology": {
         "Human Evolution (Paleoanthropology)": {
@@ -2964,17 +2974,25 @@
         "History of Specific Wars": null
       },
       "History of Science & Technology": {
-        "History of Specific Disciplines (Physics, Biology, Chemistry, Medicine)": null,
+        "History of Disciplines": {
+          "History of Physics": null,
+          "History of Biology": null,
+          "History of Chemistry": null,
+          "History of Mathematics": null,
+          "History of Medicine": null,
+          "History of Astronomy": null,
+          "History of Engineering": null,
+          "History of Computer Science": null
+        },
         "Scientific Revolution": null,
         "Science in the Enlightenment": null,
         "Technology in the Industrial Revolution": null,
         "History of Information Technology": null,
-        "Science, Technology & Society (STS - Historical Aspects)": null,
-        "Environmental History": null,
-        "History of Mathematics": null
+        "Science, Technology & Society": null,
+        "Environmental History": null
       },
       "Historiography": {
-        "History of Historical Writing (Antiquity to Present)": null,
+        "Historical Writing": null,
         "Major Historical Schools (Rankean, Marxist, Annales, Postmodern)": null,
         "Philosophy of History": null,
         "Historical Methodology & Sources": null,
@@ -4491,6 +4509,7 @@
           "Film Industry Studies": null,
           "Film Criticism": null,
           "TV Series Studies": null,
+          "Anime Studies": null,
           "Audience & Reception Studies": null
         },
         "Performance Art": {
@@ -7750,7 +7769,7 @@
               "Procedural Modeling": null,
               "Solid Modeling": null
             },
-            "Animation": {
+            "Computer Animation": {
               "Keyframing": null,
               "Physics-Based Simulation (Rigid Bodies, Fluids, Cloth)": null,
               "Character Animation (Skeletal Animation, Rigging)": null
