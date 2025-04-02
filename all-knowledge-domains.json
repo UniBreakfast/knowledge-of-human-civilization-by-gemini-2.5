@@ -3687,7 +3687,7 @@
     },
     "Literature": {
       "Poetry": {
-        "Forms & Genres": {
+        "Forms & Genres of Poetry": {
           "Lyric Poetry (Ode, Elegy, Sonnet)": null,
           "Narrative Poetry (Epic, Ballad)": null,
           "Dramatic Poetry": null,
@@ -3903,7 +3903,7 @@
       },
       "Children's Literature": {
         "History of Children's Literature": null,
-        "Genres": {
+        "Genres for Children": {
           "Picture Books": null,
           "Early Readers": null,
           "Chapter Books": null,
@@ -4077,7 +4077,7 @@
             "Photorealism": null,
             "Specific Historical Periods (Renaissance, Baroque, etc.)": null
           },
-          "Genres": {
+          "Genres of Painting": {
             "Portraiture": null,
             "Landscape Painting": null,
             "Still Life": null,
@@ -4170,7 +4170,7 @@
           "Digital Printmaking": null
         },
         "Photography": {
-          "Genres": {
+          "Genres of Photography": {
             "Portrait Photography": null,
             "Landscape Photography": null,
             "Documentary Photography / Photojournalism": null,
@@ -4253,7 +4253,7 @@
             "Algorithmic / Generative Art": null,
             "Interactive Art": null
           },
-          "Genres": {
+          "Genres in Digital Art": {
             "Net Art": null,
             "Virtual Reality (VR)": null,
             "Augmented Reality (AR) Art": null,
@@ -4363,7 +4363,7 @@
           "Music Education": null
         },
         "Theatre": {
-          "Genres": {
+          "Genres in Theatre": {
             "Tragedy": null,
             "Comedy": null,
             "Drama": null,
@@ -4489,6 +4489,8 @@
             "Special Effects": null
           },
           "Film Industry Studies": null,
+          "Film Criticism": null,
+          "TV Series Studies": null,
           "Audience & Reception Studies": null
         },
         "Performance Art": {
@@ -5512,9 +5514,6 @@
       },
       "Applied Mathematics": {
         "Optimization": {
-          "Linear Programming": null,
-          "Nonlinear Programming": null,
-          "Integer Programming": null,
           "Convex Optimization": null,
           "Calculus of Variations": null
         },
@@ -5785,7 +5784,7 @@
       "Higher-Order Logic": null,
       "Informal Logic & Critical Thinking": null
     },
-    "Computer Science (Theoretical)": {
+    "Theoretical Computer Science": {
       "Theory of Computation": {
         "Automata Theory": {
           "Finite Automata (DFA, NFA)": null,
@@ -5857,7 +5856,7 @@
           "Suffix Trees & Arrays": null
         },
         "Optimization Algorithms": {
-          "Linear Programming (Theoretical Aspects)": null,
+          "Theoretical Linear Programming": null,
           "Flow Networks": null
         },
         "Randomized Algorithms": null,
@@ -5926,7 +5925,7 @@
         "Modern Codes (LDPC, Turbo Codes)": null,
         "Algebraic Coding Theory": null
       },
-      "Cryptography (Theoretical)": {
+      "Theoretical Cryptography": {
         "Foundations": {
           "Computational Hardness Assumptions (Factoring, Discrete Log)": null,
           "Formal Definitions of Security (Semantic Security, IND-CPA, IND-CCA)": null,
@@ -5950,7 +5949,7 @@
         },
         "Secure Multi-Party Computation": null,
         "Homomorphic Encryption": null,
-        "Post-Quantum Cryptography (Theoretical Basis)": null
+        "Post-Quantum Cryptography": null
       },
       "Formal Methods": {
         "Specification Languages (Z, VDM, B, TLA+)": null,
@@ -7380,7 +7379,7 @@
           "Fault Detection & Fault Tolerant Systems": null
         }
       },
-      "Computer Science & Engineering (Applied)": {
+      "Computer Science & Engineering": {
         "Software Engineering": {
           "Requirements Engineering": {
             "Requirements Elicitation": null,
@@ -10654,7 +10653,7 @@
         },
         "Criminal Procedure": {
           "Pre-Trial Procedures": {
-            "Investigation (Search & Seizure, Interrogation - Miranda Rights)": null,
+            "Investigation (Search & Seizure, Interrogation)": null,
             "Arrest & Booking": null,
             "Bail & Pretrial Detention": null,
             "Grand Jury & Preliminary Hearings": null,
@@ -11030,12 +11029,6 @@
     },
     "Business & Management": {
       "Management Science & Operations Research": {
-        "Optimization Techniques": {
-          "Linear Programming": null,
-          "Integer Programming": null,
-          "Nonlinear Programming": null,
-          "Network Models": null
-        },
         "Stochastic Modeling": {
           "Queueing Theory": null,
           "Markov Processes": null,
@@ -11463,7 +11456,7 @@
         "Archaeological Recovery Methods": null
       },
       "Forensic Toxicology": {
-        "Analysis of Drugs & Alcohol in Biological Samples": null,
+        "Drugs & Alcohol in Biological Samples": null,
         "Postmortem Toxicology": null,
         "Human Performance Toxicology (DUI/DWI)": null,
         "Interpretation of Toxicological Findings": null,
