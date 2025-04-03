@@ -195,10 +195,7 @@
         "Planetary Science (Exoplanets, Formation)": null,
         "Cosmology": {
           "Big Bang Theory": null,
-          "Cosmic Microwave Background (CMB)": null,
-          "Dark Matter": null,
-          "Dark Energy": null,
-          "Inflationary Cosmology": null
+          "Cosmic Microwave Background (CMB)": null
         },
         "Astroparticle Physics": null,
         "Gravitational Wave Astronomy": null
@@ -220,15 +217,10 @@
         "Computational Biophysics": null
       },
       "Geophysics": {
-        "Seismology": {
-          "Earthquake Source Mechanics": null,
-          "Seismic Wave Propagation": null,
-          "Earth Structure Tomography": null
-        },
         "Geomagnetism & Paleomagnetism": null,
         "Geodesy & Gravity": null,
         "Tectonophysics & Plate Tectonics": null,
-        "Geodynamics (Mantle Convection)": null,
+        "Geodynamics & Mantle Convection": null,
         "Exploration Geophysics (Seismic, Gravity, Magnetic, Electrical)": null,
         "Environmental & Engineering Geophysics": null,
         "Mineral Physics": null
@@ -1001,7 +993,7 @@
         "Earthquake Source Physics": null,
         "Seismic Wave Theory & Propagation": null,
         "Observational Seismology & Instrumentation": null,
-        "Earth Structure (Tomography)": null,
+        "Earth Structure Tomography": null,
         "Earthquake Hazard & Risk Assessment": null,
         "Engineering Seismology": null,
         "Forensic Seismology (Explosion Monitoring)": null,
@@ -2331,7 +2323,6 @@
         "Oligopoly Theory (Static & Dynamic Games)": null,
         "Collusion & Cartels": null,
         "Product Differentiation": null,
-        "Advertising": null,
         "Entry & Exit Barriers": null,
         "Research & Development (R&D) & Innovation": null,
         "Antitrust Law & Regulation": null,
@@ -3298,16 +3289,19 @@
         "Self-Disclosure & Intimacy": null
       },
       "Mass Communication & Media Studies": {
-        "Media Effects Theories (Agenda Setting, Framing, Cultivation)": null,
+        "Media Effects Theories": {
+          "Advertising Studies": null,
+          "Journalism Studies": null,
+          "Public Relations Studies": null,
+          "Agenda Setting": null,
+          "Framing": null,
+          "Cultivation": null
+        },
         "Media Industries & Economics": null,
         "Media Law & Ethics": null,
-        "Journalism Studies": null,
-        "Film Studies": null,
-        "Television Studies": null,
         "New Media & Digital Culture": {
           "Social Media Studies": null,
           "Internet Studies": null,
-          "Video Game Studies": null,
           "Video Game Genres": {
             "Action": null,
             "Adventure": null,
@@ -3324,8 +3318,7 @@
             "Educational": null,
             "Casual": null,
             "Experimental": null
-          },
-          "Cyberculture": null
+          }
         },
         "Audience Studies": null,
         "Media Representation (Race, Gender, Class)": null,
@@ -3406,6 +3399,10 @@
         },
         "Philosophy of Space": {
           "Substantivalism vs. Relationalism": null
+        },
+        "Philosophy of Education": {
+          "Philosophy of Learning": null,
+          "Philosophy of Teaching": null
         },
         "Modality (Necessity & Possibility)": null,
         "Identity & Change": {
@@ -4520,6 +4517,90 @@
           "Key Artists & Collectives": null
         }
       },
+      "Crafts and Industries": {
+        "Fiber Art": {
+          "Techniques": {
+            "Weaving": null,
+            "Knitting": null,
+            "Crochet": null,
+            "Embroidery": null,
+            "Tapestry": null,
+            "Felting": null
+          },
+          "Materials": {
+            "Natural Fibers (Cotton, Wool, Silk)": null,
+            "Synthetic Fibers (Nylon, Polyester, Acrylic)": null
+          },
+          "Styles & Movements": {
+            "Tapestry Weaving": null,
+            "Modern Fiber Art": null,
+            "Fiber Sculpture": null
+          }
+        },
+        "Glass Art": {
+          "Techniques": {
+            "Blown Glass": null,
+            "Cast Glass": null,
+            "Fused Glass": null,
+            "Stained Glass": null,
+            "Etched Glass": null,
+            "Carved Glass": null
+          },
+          "Forms & Functions": {
+            "Sculpture": null,
+            "Functional Glassware": null,
+            "Architectural Glass": null
+          },
+          "Historical Types (Roman, Venetian, Czech)": null
+        },
+        "Jewelry": {
+          "Techniques": {
+            "Forging": null,
+            "Casting": null,
+            "Fabrication": null,
+            "Enameling": null,
+            "Engraving": null,
+            "Beading": null
+          },
+          "Materials": {
+            "Metals (Gold, Silver, Copper)": null,
+            "Gemstones": null,
+            "Plastics": null,
+            "Wood": null
+          },
+          "Forms & Functions": {
+            "Adornments": null,
+            "Functional Items": null,
+            "Symbolic & Ritual Items": null
+          },
+          "Historical Types (Ancient, Medieval, Renaissance)": null
+        },
+        "Metalwork": {
+          "Techniques": {
+            "Forging": null,
+            "Casting": null,
+            "Fabrication": null,
+            "Engraving": null,
+            "Enameling": null,
+            "Plating": null
+          },
+          "Materials": {
+            "Iron": null,
+            "Steel": null,
+            "Copper": null,
+            "Aluminum": null,
+            "Bronze": null,
+            "Gold": null,
+            "Silver": null
+          },
+          "Forms & Functions": {
+            "Adornments": null,
+            "Functional Items": null,
+            "Symbolic & Ritual Items": null
+          },
+          "Historical Types (Ancient, Medieval, Renaissance)": null
+        }
+      },
       "Art History": {
         "Methodologies": {
           "Formal Analysis": null,
@@ -5120,7 +5201,7 @@
           "Stereotyping": null
         },
         "Specific Media Forms": {
-          "Film Studies (Cultural Approaches)": null,
+          "Film Studies": null,
           "Television Studies": null,
           "Radio Studies": null,
           "Print Media Studies": null
@@ -5128,7 +5209,7 @@
         "Digital Media & Culture": {
           "Internet Studies": null,
           "Social Media Analysis": null,
-          "Video Game Studies": null,
+          "Video Games Studies": null,
           "Cyberculture": null
         },
         "Journalism Studies (Cultural Perspectives)": null,
@@ -5547,7 +5628,7 @@
           "Population Dynamics": null,
           "Epidemiology": null,
           "Mathematical Neuroscience": null,
-          "Bioinformatics (Mathematical Aspects)": null
+          "Math of Bioinformatics": null
         },
         "Mathematical Finance": {
           "Option Pricing (Black-Scholes)": null,
@@ -5673,39 +5754,6 @@
         },
         "Quantified Modal Logic": null
       },
-      "Mathematical Logic": {
-        "Set Theory": {
-          "Axioms (ZFC)": null,
-          "Ordinals & Cardinals": null,
-          "Continuum Hypothesis": null,
-          "Large Cardinals": null
-        },
-        "Model Theory": {
-          "Completeness Theorem": null,
-          "Compactness Theorem": null,
-          "Löwenheim–Skolem Theorems": null,
-          "Types & Saturation": null,
-          "Categoricity": null,
-          "Stability Theory": null
-        },
-        "Proof Theory": {
-          "Sequent Calculus": null,
-          "Natural Deduction": null,
-          "Cut-Elimination Theorem": null,
-          "Consistency Proofs (Gentzen)": null,
-          "Ordinal Analysis": null
-        },
-        "Computability Theory (Recursion Theory)": {
-          "Turing Machines": null,
-          "Recursive Functions": null,
-          "Church-Turing Thesis": null,
-          "Undecidability (Halting Problem)": null,
-          "Degrees of Unsolvability": null
-        },
-        "Foundations of Mathematics": {
-          "Logicism, Formalism, Intuitionism, Constructivism": null
-        }
-      },
       "Philosophical Logic": {
         "Non-Classical Logics": {
           "Intuitionistic Logic": null,
@@ -5798,10 +5846,13 @@
         "Reducibility & Turing Degrees": null,
         "Recursion Theorems (Kleene)": null,
         "Computable Analysis": null,
-        "Algorithmic Randomness": null
+        "Algorithmic Randomness": null,
+        "Arithmetical Hierarchy": null,
+        "Recursive & Recursively Enumerable Languages": null
       },
       "Higher-Order Logic": null,
-      "Informal Logic & Critical Thinking": null
+      "Informal Logic & Critical Thinking": null,
+      "Degrees of Unsolvability": null
     },
     "Theoretical Computer Science": {
       "Theory of Computation": {
@@ -5811,18 +5862,8 @@
           "Pumping Lemma for Regular Languages": null,
           "Pushdown Automata": null,
           "Context-Free Grammars & Languages": null,
-          "Turing Machines": null,
           "Variants of Turing Machines": null,
           "Linear Bounded Automata": null
-        },
-        "Computability Theory": {
-          "Church-Turing Thesis": null,
-          "Decidability & Undecidability": null,
-          "Halting Problem": null,
-          "Reducibility (Mapping, Turing)": null,
-          "Recursion Theorem": null,
-          "Arithmetical Hierarchy": null,
-          "Recursive & Recursively Enumerable Languages": null
         },
         "Formal Languages": {
           "Chomsky Hierarchy": null,
@@ -5831,7 +5872,6 @@
         },
         "Models of Computation (Beyond Turing)": {
           "Lambda Calculus": null,
-          "Recursive Functions": null,
           "Quantum Computation Models": null,
           "Biological Computation Models": null
         }
@@ -9858,7 +9898,6 @@
           "Survival Analysis": null,
           "Longitudinal Data Analysis": null,
           "Categorical Data Analysis": null,
-          "Statistical Genetics & Bioinformatics": null,
           "Spatial Statistics in Public Health": null,
           "Survey Sampling Methods": null,
           "Computational Statistics & Statistical Software (R, SAS, Stata)": null
